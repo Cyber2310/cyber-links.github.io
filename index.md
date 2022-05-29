@@ -1,22 +1,3 @@
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 # **Article** 
 
 ## **Les critères de la sécurité de l’information: CID**
@@ -34,20 +15,29 @@ N’hésitez pas à nous indiquer si vous souhaitez que nous réalisons un artic
 
 Conformément à la norme ISO 27000:2018, la confidentialité est définie comme la propriété selon laquelle l’information n’est pas diffusée ni divulguée à des personnes, des entités ou des processus non autorisés. Autrement dit, c’est la caractéristique d’une information à n’être accessible uniquement qu’aux personnes autorisées. De ce fait, toute information catégorisée plutôt sensible pour une organisation se doit d’être régie par une politique de sécurité stricte qui réduit au maximum les personnes autorisées à y accéder et assure la non transmission d’une information ou d’une ressource d’une personne autorisée à une autre qui ne l’est pas.
 
-```Exemple: Une liste des contacts clients VIP d’une entreprise ou des contrats clients ne doit pas être accessible par l’ensemble des employés au sein d’une entreprise.```
+```markdown
+#Exemple: 
+Une liste des contacts clients VIP d’une entreprise ou des contrats clients ne doit pas être accessible par l’ensemble des employés au sein d’une entreprise.
+```
 
 ### L’intégrité
 
 Elle est définie comme la propriété d’exactitude et de complétude d’une ressource, d’une information conformément à la norme ISO 27000:2018. En d’autres termes, c’est la caractéristique d’une information à ne pouvoir être modifiée que par les personnes qui sont autorisées. En effet, toute information dont la fiabilité est critique comme des données bancaires se doit de respecter scrupuleusement ce critère. S’assurer de l’intégrité, c’est s’assurer que les personnes et les systèmes au contact des informations critiques soient des systèmes de confiance et qu’ils s’alignent sur une procédure de gestion de l’information bien définie et connue de tous afin de faciliter les audits systèmes.
 
-```Exemple: Un utilisateur lambda ne doit pas être capable de miodifier dans l’outil de gestion RH ou dans la comptabilité ses jours de congés restants ou ses informations de paie.```
+```markdown
+#Exemple:
+Un utilisateur lambda ne doit pas être capable de miodifier dans l’outil de gestion RH ou dans la comptabilité ses jours de congés restants ou ses informations de paie.
+```
 
 ### La disponibilité
 
 Elle est définie, conformément à la norme ISO 27000:2018, comme la propriété pour une ressource d'être accessible et utilisable à la demande par une entité autorisée. Autrement dit, c’est la caractéristique d’une information ou d’une ressource à être à un instant T et quelque soit le lieu accessible par un utilisateur ayant les droits. De manière pratique, ce critère s’accompagne de conditions qui peuvent être logiques, matérielles ou géospatiales dépendant du contexte de l’entreprise.
 De ce qui précède, on comprend que ce critère s’impose pour toutes informations jugées indispensable pour le bon fonctionnement d’une entreprise et son niveau d’appréciation variera en fonction de la criticité de l’information.
 
-```Exemple: Des fichiers de comptabilité qui sont disponibles en tout temps au niveau de l’équipe comptable à partir de leurs équipements taggés par l’entreprise mais indisponible à partir de leurs effets personnels. ```
+```markdown
+#Exemple: 
+Des fichiers de comptabilité qui sont disponibles en tout temps au niveau de l’équipe comptable à partir de leurs équipements taggés par l’entreprise mais indisponible à partir de leurs effets personnels. 
+```
 
 Ces points sont si importants en termes de sécurité que la norme ISO 27000 définit la sécurité de l’information comme la protection de la confidentialité, de l'intégrité et de la disponibilité de l'information. Cependant, un quatrième critère est très souvent évoqué: la traçabilité.
 
@@ -55,14 +45,16 @@ Ces points sont si importants en termes de sécurité que la norme ISO 27000 dé
 La traçabilité est la propriété qui consiste en la conservation de l’ensemble des traces de l'état des mouvements d’une information ou d’une ressource. Sans la traçabilité, il est quasiment impossible de pouvoir auditer les trois principaux critères qui ont été évoqués et si dans votre politique de gouvernance interne, vous appliquez la méthodologie PDCA (Plan Do Check Act), il est clair que vous avez des audit internes périodiques qui vous obligeront à procéder au contrôle de ces critères.
 Lorsque nous faisons allusion à la traçabilité, nous considérons l’ensemble du cycle de vie de la ressource ou de l’information allant du lieu où l’information est stockée, le responsable de celle-ci, la procédure qui l’a régi et son lieu de destination. Il faudra donc mettre en place un mécanisme qui procédera à l’enregistrement et au suivi de l’ensemble des états appliqués aux ressources sensibles de l’information. 
 
-```Exemple: La journalisation des logs de l’Active Directory. Je vous incite à regarder nos articles sur l’AD.```
+```markdown
+#Exemple: 
+La journalisation des logs de l’Active Directory. Je vous incite à regarder nos articles sur l’AD.
+```
 
 Il faut dire, pour finir, que ces critères interviennent dans l’analyse des risques des actifs informationnels d’une entreprise dans la politique de gouvernance. Que ce soit selon la norme ISO 27005 ou selon la méthode Ebios, ces critères seront abordés le long de la procédure et plus particulièrement dans la phase d’appréciation du risque.
 
 Si vous avez des questions, n’hésitez pas à nous écrire et signifiez nous si vous souhaitez que nous réalisons au plus vite des articles sur la gestion des risques.
 
 ### Sources:
-``` 
-[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/) 
-```
+[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
+
 
