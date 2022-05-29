@@ -1,1 +1,1 @@
-# cyber-links7.github.io
+# cyberlinks7.github.io
