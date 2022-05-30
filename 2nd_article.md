@@ -44,19 +44,20 @@ Avant de les délivrer, nous souhaitons revenir sur l’importance de réaliser 
 En ce qui nous concerne, nous utilisons les flux RSS pour réaliser notre veille technologique. De nombreux sites d’informations proposent des flux RSS qui peuvent être agrégés via des outils gratuits tels que celui que nous utilisons dénommé Netvibes. Il existe néanmoins divers outils, des agrégateurs de flux que vous pouvez rechercher par vous même.
 Pour rappel, "Les flux RSS (“Really Simple Syndication” en français “Syndication réellement simple”) sont des fichiers dont l’objectif est de stocker une liste de contenus ou de pages web.” comme le définit le site 1min30. 
 Revenons à Netvibes. Il permet de créer un dashboard fournissant les informations provenant de l’ensemble des flux RSS que vous choisirez conformément à vos centres d’intérêts et vos besoins. Si vous avez du mal à l’utiliser, n’hésitez pas à nous le signifier, on vous aidera :-).
-Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le CERT FR (Computer Emergency Response Team Français), l’ANSSI, la CNIL, Zataz, Dark reading pour en citer que quelques unes.
+Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le **CERT FR** (Computer Emergency Response Team Français), l’**ANSSI**, la **CNIL**, **Zataz**, **Dark reading** pour en citer que quelques unes.
 
-
+![Netvibes](Netvibes.png)
 
 Il est de même possible de réaliser sa veille via les réseaux professionnels du style Linkedin mais aussi Twitter  où de nombreux acteurs réalisent de la veille technologique active. Il vous suffit de les suivre et de consulter de temps à autre votre file d’actualités afin de réaliser votre veille.
 Par rapport à la cybersécurité, nous vous encourageons à vous abonner aux profils suivants qui sont des professionnels expérimentés et qui réalisent une veille vraiment proactive. 
 Cette liste est exhaustive mais vous verrez bien évidemment que des profils se démarquent plus que certains par rapport à vos centres d’intérêts personnels. Nous vous proposons donc:
-- M. Matthieu Garin
-- M. Martial Gervaise
-- M. Clément Domingo
-- M. Joas A. Santos
-- M. Gerome Billois
-- M. Joel Ramat
+
+- [M. Matthieu Garin](https://www.linkedin.com/in/matthieu-garin-3336481?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABF09cBV8SxQpfKMC_4DtEfRLTp7_RH7H8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByYCbm%2BfuQFSaZqA%2Bg2Pj8g%3D%3D)
+- [M. Martial Gervaise](https://www.linkedin.com/in/martial-gervaise-840737a4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABYtevAB0Cg1QIPQABUfuRtg2UtqG8-22dE&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BMknthnoNRa%2B3O%2Fk%2BaO0y6Q%3D%3D)
+- [M. Clément Domingo](https://www.linkedin.com/in/clementdomingo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA0NTOMBxL1sCPJQBFt6pgwlBEeL-ADVvr8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B%2BK%2Fl3hfBTpOloC8kt9dEJg%3D%3D)
+- [M. Joas A. Santos](https://www.linkedin.com/in/joas-antonio-dos-santos?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BJcPAARBOTNK9NVXquj14lQ%3D%3D)
+- [M. Gerome Billois](https://www.linkedin.com/in/gbillois?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABcou4BCFV4rXmezf7l3raMTguOTst_wVA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BQ7UONuyQSVuUlwD1WOluag%3D%3D)
+- [M. Joel Ramat](https://www.linkedin.com/in/joelramat?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFmAvkBBk3oQLkRVllWpfKghF3z0XOohhM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BYkELqH2JREqX36NURbdNsA%3D%3D)
 
 Pour finir, il est de même recommandé d’appartenir à des groupes d’entraide, de consulter des blogs et de s’inscrire à des newsletters pour recevoir les alertes technologiques importantes. 
 N’hésitez pas à nous contacter si vous souhaitez des articles sur ce genre de thématique ou sur une en particulier qui vous intéresse.
