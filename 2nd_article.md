@@ -27,7 +27,9 @@ Qui dit veille technologique, dit bien évidemment … recherche perpétuelle et
 
 - Identifier les sources d’informations crédibles et légitimes vis-à-vis des besoins identifiés dans l’étape précédente. Pour rebondir sur l’exemple de la première étape, il faut prioriser les sites connus et réputés dans le domaine de la sécurité fonctionnelle tel que les sites de normalisation internationale (ISO), l’ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information), le site officiel du NIST, etc.
 
-
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/ANSSI_Logo.svg/1200px-ANSSI_Logo.svg.png" width="100" height="100" align="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISO_Logo_%28Red_square%29.svg/1200px-ISO_Logo_%28Red_square%29.svg.png" width="100" height="100" align="center">  <img src="https://www.synetis.com/wp-content/uploads/2015/04/NIST_Logo.jpg" width="180" height="100" align="center">
+</p>
 
 - Trouver un moyen de les agréger afin de facilement et rapidement pouvoir accéder à ces informations.
 
@@ -59,8 +61,9 @@ Cette liste est exhaustive mais vous verrez bien évidemment que des profils se 
 Pour finir, il est de même recommandé d’appartenir à des groupes d’entraide, de consulter des blogs et de s’inscrire à des newsletters pour recevoir les alertes technologiques importantes. 
 N’hésitez pas à nous contacter si vous souhaitez des articles sur ce genre de thématique ou sur une en particulier qui vous intéresse.
 
-A Bientôt !
+**A Bientôt !**
 
 ## Source:
 [Veille technologique](https://www.kbcrawl.com/fr/intelligence-economique/veille-innovation/veille-technologique-reponse-aux-enjeux-dinnovation/#:~:text=La%20veille%20technologique%2C%20c'est,d%C3%A9velopper%20et%20exploiter%20des%20inventions.)
+
 [Flux RSS](https://www.1min30.com/dictionnaire-du-web/flux-rss)
