@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 layout: page
 title: "La veille technologique"
 description: Second GRC article
-permalink: /cyber-links/2nd_article.md
+permalink: /cyber-links/2nd_article
 theme: jekyll-theme-hacker
 title: Cyber-links's first article
 description: First GRC article
