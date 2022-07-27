@@ -2,7 +2,7 @@
 
 ## **Cybersécurité, notre domaine, notre passion**
 
-<p style="align:justify">
+<p align="justify">
 Cette page est la page de présentation de notre blog qui vous guidera vers l'ensemble de nos articles. Ces articles, pour le moment, sont orientés autour des domaines suivants:
 
 - La GRC pour Gouvernance Risque & Conformité
@@ -12,6 +12,7 @@ Cette page est la page de présentation de notre blog qui vous guidera vers l'en
 
 En fonction de vos intérêts, choisissez ci-dessous les articles qui vous intéressent.
 </p>
+
 ### Thématique GRC
 
 [La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
@@ -30,10 +31,10 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Mais qui sommes-nous ?
 
-<p style="text-align:justify">
+<p align="justify">
 Nous sommes des professionnels de la cybersécurité avec des compétences tant techniques que fonctionnelles. Nous sommes deux à maintenir ce blog et présentons à tous les deux près d'une dizaine de certifications, des prix et concours de sécurité remportés, quelques belles années d'expérience et surtout beaucoup de motivation, d'envie de partage et d'apprentissage.
-</p>
+
 N'hésitez pas à nous contacter si besoin via l'adresse mail suivante en cas de question ou si vous souhaitez un accompagnement personnalisé en entreprise.
 Adresse mail:
-
+</p>
 
