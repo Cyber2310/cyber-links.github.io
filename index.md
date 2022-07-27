@@ -21,15 +21,15 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Pentest Active Directory
 
-[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
+[A venir]()
 
 ### Les conseils professionnels dans le domaine de la cybersécurité
 
-[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
+[A venir]()
 
 ### Les bonnes pratiques sur Internet
 
-[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
+[A venir]()
 
 ### Mais qui sommes-nous ?
 
