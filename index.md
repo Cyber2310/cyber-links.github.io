@@ -4,6 +4,7 @@
 
 <p align="justify">
 Cette page est la page de présentation de notre blog qui vous guidera vers l'ensemble de nos articles. Ces articles, pour le moment, sont orientés autour des domaines suivants:
+</p>
 
 - La GRC pour Gouvernance Risque & Conformité
 - Les pentests AD Active Directory
@@ -11,7 +12,7 @@ Cette page est la page de présentation de notre blog qui vous guidera vers l'en
 - Les bonnes pratiques sur Internet
 
 En fonction de vos intérêts, choisissez ci-dessous les articles qui vous intéressent.
-</p>
+
 
 ### Thématique GRC
 
