@@ -15,7 +15,8 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Thématique GRC
 
-[La norme ISO 27000](http://info-attitude.com/4-criteres-fondamentaux-securite-information/)
+- [Les critères de la sécurité de l'information: CID](https://cyberlinks7.github.io/cyber-links/1st_article)
+- [Comment réaliser une veille technologique efficace ?](https://cyberlinks7.github.io/cyber-links/2nd_article)
 
 ### Pentest Active Directory
 
@@ -33,8 +34,9 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 <p align="justify">
 Nous sommes des professionnels de la cybersécurité avec des compétences tant techniques que fonctionnelles. Nous sommes deux à maintenir ce blog et présentons à tous les deux près d'une dizaine de certifications, des prix et concours de sécurité remportés, quelques belles années d'expérience et surtout beaucoup de motivation, d'envie de partage et d'apprentissage.
+</p>
 
 N'hésitez pas à nous contacter si besoin via l'adresse mail suivante en cas de question ou si vous souhaitez un accompagnement personnalisé en entreprise.
 Adresse mail:
-</p>
+
 
