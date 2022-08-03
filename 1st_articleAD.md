@@ -13,7 +13,7 @@ Lorsque vous intégrez une nouvelle entreprise, dépendant de leur maturité, un
 </p>
 
 <p align="center"> 
-<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img1AD.png" align="center">
+<img src="img1AD.png" align="center">
 </p>
 
 <p align="center"> 
@@ -85,7 +85,7 @@ Active Directory est composée d'objets hiérarchisés contenus dans des Unités
 - <p align="justify">La forêt regroupe un ensemble d’arbres et regroupe donc de façon hiérarchisée un ou plusieurs domaines indépendants. Dans une forêt, une relation de confiance existe implicitement entre l’ensemble des domaines qu’elle comprend. Elle représente la frontière de sécurité qui représente la ligne d’intersection entre deux environnements qui ont des exigences ou des besoins de sécurité différents.Il faut donc faire attention aux relations de confiance qui pourraient exister entre des forêts pour éviter une compromission qui s’étende rapidement.
 
 <p align="center"> 
-<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img3AD.png" align="center">
+<img src="img3AD.png" align="center">
 </p>
     
 <p align="center">
