@@ -1,6 +1,6 @@
 # Active Directory: Les bases à connaître
 
-## <p align="justify"> Cette série d'articles portera sur l’Active Directory et les principaux vecteurs de risques auxquels il est soumis. En effet, bon nombre d’entreprise de nos jours utilisent l’AD pour bien de fonctions. Dans l’optique de favoriser la compréhension de ce point clé par tous, nous allons entamer cette série avec un article portant sur le vocabulaire à connaître sur l’AD.
+## <p align="justify">Cette série d'article portera sur l’Active Directory et les principaux vecteurs de risques auxquels il est soumis. En effet, bon nombre d’entreprise de nos jours utilisent l’AD pour bien de fonctions. Dans l’optique de favoriser la compréhension de ce point clé par tous, nous allons entamer cette série avec un article portant sur le vocabulaire à connaître sur l’AD.
 
 ## Mais d’abord qu’est ce que l’Active Directory ?
 
@@ -13,7 +13,7 @@ Lorsque vous intégrez une nouvelle entreprise, dépendant de leur maturité, un
 </p>
 
 <p align="center"> 
-<img src="img1AD.png" align="center")
+<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img1AD.png" align="center")
 </p>
 
 <p align="center"> 
@@ -31,7 +31,7 @@ Active Directory permet aussi aux administrateurs systèmes de pouvoir mettre en
 </p>
 
 <p align="center"> 
-<img src="img2AD.png" align="center")
+<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img2AD.png" align="center")
 </p>
 
 <p align="center">
@@ -51,10 +51,10 @@ L’AD permet de fournir différents services globaux à travers l’ensemble de
 - <p align="justify">La mise à disposition d’un service de réplication distribuant les informations entre les contrôleurs de domaine telles que les mises à jour d’annuaire.
 
 
-## <p align="justify"> Oula!! Cet article commence à devenir compliqué. Non ! Ne vous inquiétez pas. Les articles qui viendront vous permettront de mieux saisir des points évoqués aujourd’hui donc n’hésitez pas à visiter notre page fréquemment :-)
+<p align="justify">Oula!! Cet article commence à devenir compliqué. Non ! Ne vous inquiétez pas. Les articles qui viendront vous permettront de mieux saisir des points évoqués aujourd’hui donc n’hésitez pas à visiter notre page fréquemment :-)
 </p>
 
-## <p align="justify"> Cependant, depuis le début de cet article, nous avons abordé le terme “objet”. Mais qu’est ce que c’est qu’un objet Active Directory ? 
+<p align="justify">Cependant, depuis le début de cet article, nous avons abordé le terme “objet”. Mais qu’est ce que c’est qu’un objet Active Directory ? 
 </p>
 
 <p align="justify"> Au niveau de l'Active Directory, les objets sont de trois types :
@@ -64,20 +64,20 @@ L’AD permet de fournir différents services globaux à travers l’ensemble de
 - <p align="justify"> Les utilisateurs qui intègrent les comptes individuels et groupes, c'est-à-dire des listes d'utilisateurs avec leurs droits et leurs services)
 - <p align="justify"> Les services tels que l’utilisation des courriers électroniques ou les demandes DNS au sein du système . 
   
-  **Nous reviendrons sur quelques exemples de services AD dans notre prochain article.**
+**Nous reviendrons sur quelques exemples de services AD dans notre prochain article.**
 
 <p align="justify"> 
-Les objets sont souvent difficiles à cerner pour les débutants au niveau de l’AD car ils peuvent englober d’autres objets. Chaque objet possède de même une identification unique et des attributs**. Lorsque ces objets sont bien paramétrés, ils renferment le détail des ressources spécifiques que possède le système informatique d’une entreprise et se doivent donc d’être protégés pour éviter qu’un possible attaquant ait une visibilité totale du SI en place.
+Les objets sont souvent difficiles à cerner pour les débutants au niveau de l’AD car ils peuvent englober d’autres objets. Chaque objet possède de même une identification unique et des attributs. Lorsque ces objets sont bien paramétrés, ils renferment le détail des ressources spécifiques que possède le système informatique d’une entreprise et se doivent donc d’être protégés pour éviter qu’un possible attaquant ait une visibilité totale du SI en place.
 </p>
 
 
 ## Abordons maintenant la structure de l’Active Directory
 
-## Dans l’AD, il faut préciser qu’il y a deux types de structure: la structure logique et la structure physique. Débutons avec la structure logique.
+<p align="justify"> Dans l’AD, il faut préciser qu’il y a deux types de structure: la structure logique et la structure physique. Débutons avec la structure logique.</p>
 
 <p align="justify"> 
   
-**Active Directory** est composée d'objets hiérarchisés contenus dans des Unités Organisationnelles (Organizational Unit OU en anglais). De manière générale, l’AD est hiérarchisé et présente une structure arborescente composée de trois degrés : 
+Active Directory est composée d'objets hiérarchisés contenus dans des Unités Organisationnelles (Organizational Unit OU en anglais). De manière générale, l’AD est hiérarchisé et présente une structure arborescente composée de trois degrés : 
 </p>
 
 - <p align="justify">Le domaine représente la plus petite unité au niveau de la structure générale AD. Il correspond aux feuilles de l'arbre.  Il peut contenir des multiples OU en son sein, des utilisateurs, des groupes et plusieurs ressources propres au système informatique. Il représente la frontière administrative (Administrative boundary) en termes d’architecture d’AD car c’est en son sein que l’ensemble des restrictions sur les objets sont réalisés.
@@ -85,7 +85,7 @@ Les objets sont souvent difficiles à cerner pour les débutants au niveau de l�
 - <p align="justify">La forêt regroupe un ensemble d’arbres et regroupe donc de façon hiérarchisée un ou plusieurs domaines indépendants. Dans une forêt, une relation de confiance existe implicitement entre l’ensemble des domaines qu’elle comprend. Elle représente la frontière de sécurité qui représente la ligne d’intersection entre deux environnements qui ont des exigences ou des besoins de sécurité différents.Il faut donc faire attention aux relations de confiance qui pourraient exister entre des forêts pour éviter une compromission qui s’étende rapidement.
 
 <p align="center"> 
-<img src="img3AD.png" align="center")
+<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img3AD.png" align="center")
 </p>
     
 <p align="center">
@@ -98,5 +98,4 @@ Source: University.tenable.com (TCSA)
 ## Sources:
 
 - [Université Tenable](University.tenable.com)
-- Active Directory Collection: Active Directory | Microsoft Docs
-
+- Active Directory Collection: Active Directory
