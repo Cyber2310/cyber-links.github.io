@@ -8,11 +8,13 @@
 <p align="justify"> L’identification des IoE est donc une “sorte” de gestion de risques cyber avec premièrement l’identification des vulnérabilités applicables aux actifs de l’organisme, l’appréciation de celles-ci par rapport à une échelle définie de vraisemblance et de gravité afin de pouvoir découler sur un niveau de criticité qui nous permettra de définir le plan d’actions le plus adapté aux réalités du système informatique.
 
 ## Comment doit-on procéder pour déterminer ces IoE ?
+ 
 <p align="justify"> Plusieurs facteurs doivent être considérés pour se faire mais il faut retenir que tout événement du système informatique qui permettrait d’accéder à un actif critique de l’organisme est un IoE.
 
 Observons ensemble la nuance à travers l’exemple suivant:
 
 - <p align="justify">Un changement ou une modification inattendue des règles du firewall d’une entreprise est un événement dans le SI
+  
 - <p align="justify">Un changement ou une modification inattendue des règles du firewall d’une entreprise qui donne accès à une application métier importante d’une organisation et par la suite à un compte administrateur du système est un IoE.
 
 <p align="justify">Vous l’avez compris, les IoE ne sont pas intrinsèquement un concept purement AD mais quel lien faisons nous avec l’AD. Il faut dire que nous entendons par IoE AD toute action usant d’une vulnérabilité qui permettrait à un attaquant d’accéder à des ressources critiques de l’architecture AD. 
@@ -21,11 +23,11 @@ Observons ensemble la nuance à travers l’exemple suivant:
 
 Nous distinguons trois types d’IoE AD que sont:
 
-- Les IoE liés aux montées en privilèges
+  - Les IoE liés aux montées en privilèges
 
 <p align="justify"> Il s’agit ici des indicateurs qui garantissent que l’AD réduit au maximum l’ensemble des vecteurs exploitables par les hackers dans la réalisation de montée en privilège. Une montée en privilège consiste en un changement de droit d’accès aux ressources au sein d’un système.
-
-- Les IoE liés aux techniques de persistance
+ 
+  - Les IoE liés aux techniques de persistance
   
 <p align="justify"> Il s’agit ici de s’assurer que le système ne présente pas de portes dérobées en son sein ou que des techniques de persistance aient été réalisées afin de permettre aux hackers de se rendre comme ils le souhaitent dans le système informatique. Une stratégie de sécurité efficace doit être déployée afin de réduire les risques évoqués.
 
