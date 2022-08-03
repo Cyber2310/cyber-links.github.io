@@ -24,26 +24,33 @@ Au niveau de la structure physique, il y a les sites active directory et les con
   - L’infrastructure maître 
   
 <p align="justify">Nous vous invitons à consulter le lien ici si vous souhaitez obtenir plus d’informations sur ce point. N’hésitez pas à nous le signifier en commentaire si vous souhaitez que nous réalisions un article typique sur les rôles FSMO.
-<p align="justify">Comme promis dans notre précédent article, nous allons procéder rapidement à un petit aparté sur les services AD.
+<p align="justify">Comme promis dans notre précédent article, nous allons procéder rapidement à un petit aparté sur les services AD.</p>
 
 ## Alors, qu’est ce que AD DS (Active Directory Domain Services)?
 
 <p align="justify">L’ensemble des services pouvant être fournis par AD sont regroupés sous l’acronyme ADDS et inclut les éléments suivants:
 
 - <p align="justify">Les services de domaines qui permet l’authentification des utilisateurs et leur fournit l’accès au catalogue global (pour la réalisation de requêtes) ,évoqué dans le premier article, regroupant l’ensemble des interactions entre les utilisateurs et les domaines;
+ 
 - <p align="justify">La gestion des droits qui consiste en la protection des données de l’entreprise à travers le contrôle d’accès aux ressources afin de réduire tout risque d’accès non autorisé ou de vol de données sensibles;
+ 
 - <p align="justify">Les services de certificat allant de la création à la surveillance en passant par l’attribution des certificats de sécurité au sein du système informatique. Un certificat de sécurité permet de chiffrer les données échangées au sein d’un système. N’hésitez pas à nous signifier en commentaire si vous souhaitez un article à ce sujet :-)
+ 
 - <p align="justify">Les Lightweight Directory Services qui comme leurs noms l’indiquent permettent la prise en charge d’applications d’annuaire qui utilisent le protocole ouvert et multiplateforme LDAP (Lightweight Directory Access Protocol)
-- <p align="justify">Les services de Fédérations d’annuaires qui fournissent une authentification unique ou SSO (Single Sign on) pour permettre aux utilisateurs de s’authentifier dans plusieurs applications web au cours d’une seule session. 
+ 
+- <p align="justify">Les services de Fédérations d’annuaires qui fournissent une authentification unique ou SSO (Single Sign on) pour permettre aux utilisateurs de s’authentifier dans plusieurs applications web au cours d’une seule session.</p>
 
 ## Pourquoi est-il important de nos jours de connaître l’AD mais avant tout de le sécuriser ? Citons quelques raisons?
 
 - <p align="justify">AD est utilisé par 99% des entreprises mondiales possédant plus de 1000 employés. Au vu de sa présence dans la majorité des grandes entreprises, tant au niveau professionnel personnel qu’à des perspectives globales de sécurité pour l’entreprise, il est indispensable de maîtriser les bases de l’AD, de savoir comment il fonctionne et de savoir le sécuriser. Nous aborderons certainement des outils connus et les bonnes pratiques vis à vis de l’AD dans nos prochains articles;
+ 
 - <p align="justify">AD est un actif critique pour toute entreprise qui le possède. Comme nous l’avons évoqué précédemment, le piratage d’un AD pourrait conduire à des conséquences dramatiques dans la mesure où accéder à un contrôleur de domaine permettrait à un hacker de de voler l’ensemble des données d’une organisation, de les corrompre, de supprimer des données sensibles et donc de mettre à mal entièrement le bon fonctionnement du business;
+ 
 - <p align="justify">AD est un actif vivant en même temps qu’une entreprise. Sa configuration doit s’aligner avec la vie de l’entreprise et évoluer dans la même cadence. Le départ d’un collaborateur doit impliquer la suppression sinon la désactivation de son compte en même temps que l’apparition de nouvelles mises à jour se doivent d’être réalisées dans les temps pour éviter des conséquences irréversibles pour l’organisme
 
 <p align="justify">Il est donc important pour toutes les entreprises de disposer de personnel qualifié capable de travailler à la sécurisation de leurs AD ainsi que sur la gestion de la sécurité de celui-ci tout le long de son cycle de vie. Nous terminons cette partie en encourageant les jeunes qui débutent dans le domaine à s’y intéresser afin de pouvoir de même se mettre du côté positif de la force dans le but que nous luttions ensemble efficacement sur les vulnérabilités intrinsèques et externes liées à l’AD.
-<p align="justify">Notre prochain article portera sur les indicateurs d’exposition (IoE) de l’AD et fera un petit tour d’horizon de quelques bonnes pratiques à adopter au niveau de l’AD. 
+ 
+<p align="justify">Notre prochain article portera sur les indicateurs d’exposition (IoE) de l’AD et fera un petit tour d’horizon de quelques bonnes pratiques à adopter au niveau de l’AD.</p>
 
 ## Sources:
 
