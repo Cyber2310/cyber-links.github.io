@@ -12,9 +12,14 @@ L’active Directory est un service d'annuaire LDAP créé par Microsoft en 1996
 Lorsque vous intégrez une nouvelle entreprise, dépendant de leur maturité, une liste des ressources auxquelles vous avez accès doit être communiquée au support IT qui préparera par conséquent votre compte sur l’AD et vous remettra votre ordinateur si votre fonction le permet. Dès votre première connexion sur l’ordinateur et plus précisément sur le domaine de l’entreprise, il vous sera demandé un login et un mot de passe qui vont être soumis à l’AD et vérifiés par la suite. Si les login et mot de passe sont valides, vous aurez donc accès maintenant aux ressources de l’ordinateur en local ainsi que celles qui vous ont été attribuées via l’AD.
 </p>
 
-<p align="center">
-Source: University.tenable.com (TCSA)
+<p align="center"> 
+<img src="img1AD.png" align="center")
 </p>
+
+<p align="center"> 
+Source: University.tenable.com (TCSA)
+</p>  
+
 
 <p align="justify">
 Pour les personnes qui ne l’ont toujours pas compris, il faut dire que Active Directory est un produit purement Windows et ne fonctionne pas pour les autres OS connus du style Linux ou MacOS qui eux peuvent toujours reposer sur le protocole LDAP ou les serveurs Radius pour la réalisation des actions embarquées dans l’AD.
@@ -23,6 +28,10 @@ Pour les personnes qui ne l’ont toujours pas compris, il faut dire que Active 
 <p align="justify">
 Avec l’essor du cloud durant ces dernières années, deux types de Active Directory ont vu le jour. On note l’Active Directory qui est dédié aux solutions de Microsoft on-premises (c'est à dire hébergées totalement sur des serveurs locaux de l’entreprise) et Azure Active Directory qui lui est dédié aux solutions Microsoft Cloud. Il est de même possible de fonctionner en hybride si une entreprise possède à la fois des solutions Windows on premises et sur le cloud.
 Active Directory permet aussi aux administrateurs systèmes de pouvoir mettre en œuvre une stratégie de groupe qui leur permettra de gérer efficacement l’environnement des utilisateurs et la configuration des machines grâce à l’application de politiques. L’AD est donc un outil très intéressant dans le management des utilisateurs, des ordinateurs et de tout type d’objet vis à vis de l’ensemble des changements possibles qui pourraient avoir lieu au niveau du système d’information tel que le déploiement des logiciels, des mises à jour ou des configurations à l’échelle des parcs informatiques.
+</p>
+
+<p align="center"> 
+<img src="img2AD.png" align="center")
 </p>
 
 <p align="center">
@@ -75,6 +84,10 @@ Les objets sont souvent difficiles à cerner pour les débutants au niveau de l�
 - <p align="justify">L'arbre est un objet qui contient des domaines qui partagent la même racine
 - <p align="justify">La forêt regroupe un ensemble d’arbres et regroupe donc de façon hiérarchisée un ou plusieurs domaines indépendants. Dans une forêt, une relation de confiance existe implicitement entre l’ensemble des domaines qu’elle comprend. Elle représente la frontière de sécurité qui représente la ligne d’intersection entre deux environnements qui ont des exigences ou des besoins de sécurité différents.Il faut donc faire attention aux relations de confiance qui pourraient exister entre des forêts pour éviter une compromission qui s’étende rapidement.
 
+<p align="center"> 
+<img src="img3AD.png" align="center")
+</p>
+    
 <p align="center">
 Source: University.tenable.com (TCSA)
 </p>
