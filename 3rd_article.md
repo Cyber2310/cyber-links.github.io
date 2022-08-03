@@ -1,5 +1,5 @@
 # Article 3
-# Présentation de la famille ISO 27000
+## Présentation de la famille ISO 27000
 Dans cet article, nous souhaitons aborder le terme ISO 27000 et décrire cette famille de normes en présentant les normes qui sont les plus utilisées, leur utilité et pourquoi, nous entendons de plus en plus parler de cette norme de nos jours.
 
 ## Entamons déjà de définir ce que c’est que l’ISO ?
@@ -15,10 +15,10 @@ Premièrement, les normes ISO sont réalisées afin de répondre aux besoins du 
 </p>  
 
 <p align="justify">
-Pour finir avec cette partie, nous souhaitons évoquer quelquesn familles de normes connues telles que les familles ISO9000 et ISO14000 qui correspondent respectivement aux références internationales en matière de management de la qualité et de l’environnement pour les organismes. Mais pour revenir à notre sujet, nous allons parler de la famille des normes ISO 27000 qui, elle, attraie à la sécurité de l’information.
+Pour finir avec cette partie, nous souhaitons évoquer quelquesn familles de normes connues telles que les familles ISO 9000 et ISO 14000 qui correspondent respectivement aux références internationales en matière de management de la qualité et de l’environnement pour les organismes. Mais pour revenir à notre sujet, nous allons parler de la famille des normes ISO 27000 qui, elle, attraie à la sécurité de l’information.
 </p>
 
-##Pourquoi avons nous décidé d’en parler ?
+## Pourquoi avons nous décidé d’en parler ?
 
 <p align="justify">
 Il faut dire déjà qu’au vu de notre contexte cyber actuel, de plus en plus d’entreprises, d’organismes sont à la recherche de solutions afin de garantir la sécurité de leurs informations. Dans notre ère actuelle caractérisée par une recrudescence des attaques de cybermalveillance, de Hacking, de fuite et de vol de données, toutes les entreprises se ruent vers les moyens susceptibles de les aider à mettre en oeuvre une sécurité aboutie vis à vis de leurs informations. Comme vous avez pu l’observer dans la partie précédente, qui dit norme ISO dit besoin industriel et c’est le besoin ci-dessus indiqué qui a suscité la mise en place de la famille des normes ISO 27000. 
@@ -27,31 +27,46 @@ CyberLinks, dans sa démarche de vous accompagner dans votre montée en compéte
   
 <p align="justify">
 La famille ISO 27000 a été créé en 2005 et est dédiée à la sécurité de l’information à travers la mise en place d’un Système de Management de la Sécurité de l’Information (SMSI). Dans la famille de normes ISO27000, il existe différents types de document. On dénombre entre autres:
-- Un document qui porte sur le vocabulaire associé à la norme;
-- Les exigences qui, lorsqu’elles sont respectées, permettent à une entreprise de se conformer à des règles établies dans ces recueils d’exigences;
-- Les lignes directrices vis à vis du SMSI qui donnent les caractéristiques et les bonnes pratiques à suivre pour sa mise en place;
-- Les lignes directrices propres à un secteur en particulier vis à vis du SMSI. Ils évoquent les bonnes pratiques par secteur d’activité dans la mise en place du SMSI pour garantir la sécurité.
 </p>  
+
+- <p align="justify">Un document qui porte sur le vocabulaire associé à la norme;
+- <p align="justify">Les exigences qui, lorsqu’elles sont respectées, permettent à une entreprise de se conformer à des règles établies dans ces recueils d’exigences;
+- <p align="justify">Les lignes directrices vis à vis du SMSI qui donnent les caractéristiques et les bonnes pratiques à suivre pour sa mise en place;
+- <p align="justify">Les lignes directrices propres à un secteur en particulier vis à vis du SMSI. Ils évoquent les bonnes pratiques par secteur d’activité dans la mise en place du SMSI pour garantir la sécurité.
+
 
 <p align="justify">
 Dans la norme ISO 27000, il existe trois normes, c’est à dire trois documents qui sont relatifs à des exigences dont la norme ISO/IEC27001 qui est la seule qui permet à un organisme d’obtenir une certification. La famille des normes se décline comme suit:
 </p>
 
 
-- **ISO/IEC27000** qui introduit le vocabulaire et les concepts clés qui s’applique lors de la mise en place du SMSI;
-- **ISO/IEC27001** qui définit les exigences du SMSI et propose un ensemble de mesures de sécurité dans son annexe A;
-- **ISO/IEC27002** qui représente le code de bonne pratique pour le management de la sécurité de l’information. Il donne des détails sur la mise en oeuvre des mesures se trouvant au niveau de l’annexe A de la norme ISO27001;
-- **ISO/IEC27003** qui représente les lignes directrices pour la mise en oeuvre ou la mise en place d’un SMSI;
-- **ISO/IEC27004** qui représente les lignes directrices pour la définition des objectifs de mise en oeuvre et les critères d’efficacité, de surveillance, mesurage, analyse et évaluation du processus de mise en place du SMSI;
-- **ISO/IEC27005** qui représente les directives pour la gestion des risques liés à la sécurité de l’information;
-- **ISO/IEC27006** qui représente les exigences pour les organismes qui auditent et certifient les SMSI;
-- **ISO/IEC27007** qui représente les lignes directrices pour l’audit des SMSI;
-- **ISO/IEC27008** qui représente les lignes directrices pour les auditeurs des contrôles de sécurité de l’information;
-- **ISO/IEC27009** qui représente les exigences pour les rédacteurs de lignes directrices de mise en oeuvre ISO/IEC27001 spécifiques à un secteur;
-- **ISO/IEC27011** qui représente les lignes directrices pour l’utilisation de l’ISO/IEC27002 dans le domaine des télécommunications;
-- **ISO/IEC27031** qui représente les lignes directrices pour la préparation des TIC (Technologies de l’Information et de la Communication) dans le domaine de la continuité de l’activité ;
-- **ISO/IEC27799** qui représente les lignes directrices pour l’utilisation de l’ISO/IEC 27002 dans le domaine de la santé;
-- **ISO/IEC27701** qui décrit la gouvernance et les mesures de sécurité à mettre en place pour le traitement des données personnelles.
+- <p align="justify">ISO/IEC27000qui introduit le vocabulaire et les concepts clés qui s’applique lors de la mise en place du SMSI;
+
+- <p align="justify">ISO/IEC27001 qui définit les exigences du SMSI et propose un ensemble de mesures de sécurité dans son annexe A;
+
+- <p align="justify">ISO/IEC27002 qui représente le code de bonne pratique pour le management de la sécurité de l’information. Il donne des détails sur la mise en oeuvre des mesures se trouvant au niveau de l’annexe A de la norme ISO27001;
+
+- <p align="justify">ISO/IEC27003 qui représente les lignes directrices pour la mise en oeuvre ou la mise en place d’un SMSI;
+
+- <p align="justify">ISO/IEC27004 qui représente les lignes directrices pour la définition des objectifs de mise en oeuvre et les critères d’efficacité, de surveillance, mesurage, analyse et évaluation du processus de mise en place du SMSI;
+
+- <p align="justify">ISO/IEC27005 qui représente les directives pour la gestion des risques liés à la sécurité de l’information;
+
+- <p align="justify">ISO/IEC27006 qui représente les exigences pour les organismes qui auditent et certifient les SMSI;
+
+- <p align="justify">ISO/IEC27007 qui représente les lignes directrices pour l’audit des SMSI;
+
+- <p align="justify">ISO/IEC27008 qui représente les lignes directrices pour les auditeurs des contrôles de sécurité de l’information;
+
+- <p align="justify">ISO/IEC27009 qui représente les exigences pour les rédacteurs de lignes directrices de mise en oeuvre ISO/IEC27001 spécifiques à un secteur;
+
+- <p align="justify">ISO/IEC27011 qui représente les lignes directrices pour l’utilisation de l’ISO/IEC27002 dans le domaine des télécommunications;
+
+- <p align="justify">ISO/IEC27031 qui représente les lignes directrices pour la préparation des TIC (Technologies de l’Information et de la Communication) dans le domaine de la continuité de l’activité ;
+
+- <p align="justify">ISO/IEC27799 qui représente les lignes directrices pour l’utilisation de l’ISO/IEC 27002 dans le domaine de la santé;
+
+- <p align="justify">ISO/IEC27701 qui décrit la gouvernance et les mesures de sécurité à mettre en place pour le traitement des données personnelles.
 
 
 <p align="justify">
