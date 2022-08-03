@@ -31,7 +31,7 @@ Active Directory permet aussi aux administrateurs systèmes de pouvoir mettre en
 </p>
 
 <p align="center"> 
-<img src="https://github.com/cyberlinks7/cyber-links/blob/gh-pages/img2AD.png" align="center">
+<img src="img2AD.png" align="center">
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Active Directory est composée d'objets hiérarchisés contenus dans des Unités
 Source: University.tenable.com (TCSA)
 </p>
 
-<p align="justify"> Dans notre prochain article, nous aborderons la structure physique de l’AD et expliquerons d’ores et déjà les raisons pour lesquelles il est très important de sécuriser vos environnement AD d' entreprise.</p>
+<p align="justify"> Dans notre prochain article, nous aborderons la structure physique de l’AD et expliquerons d’ores et déjà les raisons pour lesquelles il est très important de sécuriser vos environnement AD d'entreprise.</p>
 <p align="justify"> N’hésitez pas à mettre des commentaires, à poser des questions ou à évoquer des sujets qui vous intéressent pour la rédaction de nos futurs articles.</p>
 
 ## Sources:
