@@ -47,7 +47,7 @@ N'hésitez pas à nous contacter si besoin via l'adresse mail suivante en cas de
 
 ## Adresses mail: 
 
-- [Auteur 1](fahdibn23@gmail.com)
-- [Auteur 2](okoubisso.guyselassie@gmail.com)
+- [Auteur 1](mailto:fahdibn23@gmail.com)
+- [Auteur 2]((mailto:okoubisso.guyselassie@gmail.com)
 
 
