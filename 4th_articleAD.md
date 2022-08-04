@@ -4,6 +4,10 @@
 <p align="justify"> Après avoir défini les bases en ce qui concerne l’active directory, nous allons prendre la place d’un acteur sensible dans le domaine de la sécurité: celui du Hacker. Cet article présentera donc les grandes étapes de l’intrusion d’un hacker dans un système en terminant avec un scénario d’exemple.</p>
 <p align="justify"> Déjà pour débuter, nous vous proposons le schéma suivant que nous empruntons à Pentester Academy qui présente le cycle suivi par l’attaquant. Nous tenons à rappeler que pour l’attaquant, dans une architecture AD, c’est d’atteindre les contrôleurs de domaine. Vous vous posez la question de savoir pourquoi ? Nous vous invitons à revoir nos articles sur la description de l’AD.</p>
 
+<p align="center"> 
+<img src="img4AD.png" align="center">
+</p>
+
 <p align="justify"> Nous allons décrire chacune de ces étapes afin que vous puissiez comprendre le modus operandi d’un attaquant. Cet article vous permettra à la fois de bien comprendre le procédé des cyberattaquants vis à vis de l’Active Directory et de pouvoir faire des campagne de pentest en interne au niveau de vos entreprises actuelles. Sans perdre de temps, abordons la phase de reconnaissance.</p>
   
 <p align="justify"> La reconnaissance consiste pour un attaquant à collecter le maximum d’informations possibles en ce qui concerne son entreprise cible. Elle a donc pour but de comprendre le contexte de l’entreprise, avoir une connaissance maximale de tous les aspects internes & externes qui décrivent le système d’information cible. C’est donc le point de départ de toute attaque car elle permet à l’attaquant d’analyser sa cible, d’identifier et découvrir ses faiblesses, défauts et vulnérabilités.</p>
