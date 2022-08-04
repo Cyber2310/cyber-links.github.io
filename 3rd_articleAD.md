@@ -78,7 +78,7 @@ Observons ensemble la nuance à travers l’exemple suivant:</p>
 
 - [Université Tenable (TCSA)](https://University.tenable.com)
   
-- [Porte dérobée](https://www.cnil.fr/fr/definition/porte-derobee-ou backdoor#:~:text=Le%20principe%20de%20la%20mise,logiciel%20ou%20sur%20un%20mat%C3%A9riel.) 
+- [Porte dérobée](https://www.cnil.fr/fr/definition/porte-derobee-ou-backdoor) 
  
  
  
