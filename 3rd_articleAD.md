@@ -68,16 +68,15 @@ Observons ensemble la nuance à travers l’exemple suivant:</p>
 <p align="justify">Il faut une équipe en place compétente afin d’assurer un processus de correction et de maintenance rapide, efficace et efficient pour l’AD et les autres failles détectées sur le système d’information.</p> 
 
   - <p align="justify">Centraliser et automatiser
-<p align="justify">La centralisation de l'ensemble des examens, des rapports, des contrôles et de l'administration en un seul endroit est indispensable, et il faut rechercher des outils capables de fournir des interactions systèmes automatisées pour l'émission d'alertes et l'aide à la résolution rapide de problème. Des solutions existantes de centralisation et services managés existent et n’hésitez pas, comme nous l'évoquions souvent, à signifier en commentaire si vous souhaitez que nous fassions typiques sur ce genre de solutions.
+<p align="justify">La centralisation de l'ensemble des examens, des rapports, des contrôles et de l'administration en un seul endroit est indispensable, et il faut rechercher des outils capables de fournir des interactions systèmes automatisées pour l'émission d'alertes et l'aide à la résolution rapide de problème. Des solutions existantes de centralisation et services managés existent et n’hésitez pas, comme nous l'évoquions souvent, à signifier en commentaire si vous souhaitez que nous fassions typiques sur ce genre de solutions.</p> 
 
-<p align="justify">En suivant ces bonnes pratiques, vous réduisez assurément l’ensemble des vecteurs d’attaques possibles vers votre environnement AD. Et vous, quelles sont les bonnes pratiques que vous appliquez dans vos entreprises respectives ? Signifiez les en commentaire pour le partage d’expérience.
+<p align="justify">En suivant ces bonnes pratiques, vous réduisez assurément l’ensemble des vecteurs d’attaques possibles vers votre environnement AD. Et vous, quelles sont les bonnes pratiques que vous appliquez dans vos entreprises respectives ? Signifiez les en commentaire pour le partage d’expérience.</p> 
  
 <p align="justify">Maintenant que l’AD est connu, son vocabulaire, sa structure ainsi que ses bonnes pratiques générales de gestion, nous allons dans notre prochain article aborder les différentes étapes de compromission de l’AD d’un point de vue Hacking.</p> 
  
 ## Sources:
 
 - [Université Tenable (TCSA)](https://University.tenable.com)
-  
 - [Porte dérobée](https://www.cnil.fr/fr/definition/porte-derobee-ou-backdoor) 
  
  
