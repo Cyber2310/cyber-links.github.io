@@ -63,8 +63,8 @@ Les sites Active directory sont très utilisés dans la gestion pour les entrepr
 
 ## Sources:
 
-[Université Tenable](https://www.University.tenable.com)
-[Contrôleur de domaine](https://www.varonis.com/fr/blog/controleur-de-domaine)
-[Roles FSMO](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/identity/fsmo-roles#:~:text=Le%20titulaire%20du%20r%C3%B4le%20FSMO%20d'infrastructure%20est%20le%20responsable,r%C3%A9f%C3%A9rence%20d'objet%20entre%20domaines.&text=Le%20r%C3%B4le%20Ma%C3%AEtre%20d'infrastructure,de%20catalogue%20global%20(GC).)
-[Certificat de sécurité](https://monentreprisesurle.net/certificat-securite/#:~:text=Qu'est%2Dce%20qu',exemple%2C%20ne%20soient%20pas%20compromises.)
+- [Université Tenable](https://www.University.tenable.com)
+- [Contrôleur de domaine](https://www.varonis.com/fr/blog/controleur-de-domaine)
+- [Roles FSMO](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/identity/fsmo-roles#:~:text=Le%20titulaire%20du%20r%C3%B4le%20FSMO%20d'infrastructure%20est%20le%20responsable,r%C3%A9f%C3%A9rence%20d'objet%20entre%20domaines.&text=Le%20r%C3%B4le%20Ma%C3%AEtre%20d'infrastructure,de%20catalogue%20global%20(GC).)
+- [Certificat de sécurité](https://monentreprisesurle.net/certificat-securite/#:~:text=Qu'est%2Dce%20qu',exemple%2C%20ne%20soient%20pas%20compromises.)
 
