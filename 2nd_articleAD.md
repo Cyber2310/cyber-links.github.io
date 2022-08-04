@@ -7,8 +7,9 @@ Dans notre précédent article, nous avons abordé les bases de l’Active Direc
 ## Définissons la structure physique de l’AD
 
 Au niveau de la structure physique, il y a les sites active directory et les contrôleurs de domaine. 
-<p align="justify"> Les sites Active directory sont très utilisés dans la gestion pour les entreprises qui s’étendent à l’international, qui ont des branches ou des filiales à l’international mais qui regroupent l’ensemble de leur parc informatique sous le même nom de domaine. Les sites regroupent donc physiquement des sous réseaux IP qui sont utilisés pour faire de la réplication via les contrôleurs de domaine.
-<p align="justify"> Avant de définir ce qu’est un contrôleur de domaine, donnons un exemple qui permettra de comprendre l’utilité des sites au niveau de l’AD. Imaginons une entreprise du nom de MOB Technologies qui exerce son activité en France et qui a l’ensemble de son parc informatique enregistré sous le nom de domaine MOB.Tech.
+<p align="justify"> 
+Les sites Active directory sont très utilisés dans la gestion pour les entreprises qui s’étendent à l’international, qui ont des branches ou des filiales à l’international mais qui regroupent l’ensemble de leur parc informatique sous le même nom de domaine. Les sites regroupent donc physiquement des sous réseaux IP qui sont utilisés pour faire de la réplication via les contrôleurs de domaine. </p>
+<p align="justify"> Avant de définir ce qu’est un contrôleur de domaine, donnons un exemple qui permettra de comprendre l’utilité des sites au niveau de l’AD. Imaginons une entreprise du nom de MOB Technologies qui exerce son activité en France et qui a l’ensemble de son parc informatique enregistré sous le nom de domaine MOB.Tech. </p>
 <p align="justify"> Suite au rachat d’une très grande entreprise dans son processus de croissance externe, MOB.Tech souhaite enregistrer les actifs informatiques de sa nouvelle acquisition sous son nom de domaine actuel. Les sous réseaux d’adresse IP de l’ensemble du parc international de l’entreprise racheté est connu, de ce fait, regroupé sous un site Active Directory, les administrateurs de MOB Technologies, seront capable de gérer leur nouveau parc via le principal nom de domaine MOB.Tech.
 </p>
 
@@ -22,11 +23,11 @@ Au niveau de la structure physique, il y a les sites active directory et les con
 
 <p align="justify">Il faut de même évoquer les rôles FSMO (Flexible Single Master Operations) liés aux contrôleurs de domaines qui sont des tâches AD spécifiques qui ne peuvent être réalisées par tous les contrôleurs de domaines au sein du système informatique. Nous dénombrons 5 rôles FSMO que sont:</p>
 
-  - <p align="justify">Le contrôleur de schéma</p>
-  - <p align="justify">Le maître d’attribution de noms de domaine</p>
-  - <p align="justify">Le master RID</p>
-  - <p align="justify">L’émulateur PDC</p>
-  - <p align="justify">L’infrastructure maître </p>
+  - <p align="justify">Le contrôleur de schéma
+  - <p align="justify">Le maître d’attribution de noms de domaine
+  - <p align="justify">Le master RID
+  - <p align="justify">L’émulateur PDC
+  - <p align="justify">L’infrastructure maître 
   
 <p align="justify">Nous vous invitons à consulter le lien ici si vous souhaitez obtenir plus d’informations sur ce point. N’hésitez pas à nous le signifier en commentaire si vous souhaitez que nous réalisions un article typique sur les rôles FSMO.
 </p>
