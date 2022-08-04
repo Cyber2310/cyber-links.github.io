@@ -25,7 +25,7 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Active Directory: Les bases à connaitre](https://cyberlinks7.github.io/cyber-links/1st_articleAD)
 - [Active Directory : Sa structure physique et pourquoi doit-on le sécuriser ?](https://cyberlinks7.github.io/cyber-links/2nd_articleAD)
 - [Active Directory : Qu’est ce que les IoE AD et quelques bonnes pratiques au niveau de l’AD](https://cyberlinks7.github.io/cyber-links/3rd_articleAD)
-- [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker](https://cyberlinks7.github.io/cyber-links/4th_articleAD)
+- [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/cyber-links/4th_articleAD)
 
 ### Les conseils professionnels dans le domaine de la cybersécurité
 
