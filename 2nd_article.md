@@ -9,7 +9,7 @@ Qu’est ce que c’est la veille technologique ? Pourquoi la réaliser ? Dans c
 <p align="justify">
 Étant dans un secteur évoluant rapidement, il est impératif de rester au contact des innovations technologiques qui ne cessent de croître aux vues des nombreuses cyberattaques ces dernières années. La veille technologique a donc pour but principal d’anticiper sinon d’identifier les nouvelles tendances naissantes dans son secteur d’activité. Si vous souhaitez avoir toujours une visibilité de votre domaine professionnel, être incontournable sur les thématiques clés qui vous intéressent, il est indispensable de mener une veille technologique adéquate.
 
-De nos jours, mener une veille technologique à des enjeux à la fois professionnels dans la mesure où vous vous développez et améliorez vos compétences dans votre domaine et économique car plus vous maitrisez un domaine, vous deviendrez expert et serez donc amené à évoluer d’un point de vue salarial. Dans le cadre d’une entreprise, une équipe qui mène une veille technologique représente pour celle-ci un enjeu Stratégique vis-à-vis des concurrents car cela lui permettra de garder toujours une avance sur ceux-ci.
+De nos jours, mener une veille technologique à des enjeux à la fois professionnel dans la mesure où vous vous développez et améliorez vos compétences dans votre domaine et économique car plus vous maitrisez un domaine, plus vous deviendrez expert et serez donc amené à évoluer d’un point de vue salarial. Dans le cadre d’une entreprise, une équipe qui mène une veille technologique représente pour celle-ci un enjeu Stratégique vis-à-vis des concurrents car cela lui permettra de garder toujours une avance sur ceux-ci.
 </p>
 
 ## Quels sont les objectifs derrière la veille technologique ?
