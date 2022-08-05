@@ -17,7 +17,7 @@ Conformément à la norme ISO 27000:2018, la confidentialité est définie comme
 </p>
 ```markdown
 #Exemple: 
-Une liste des contacts clients VIP d’une entreprise ou des contrats clients ne doit pas être accessible par l’ensemble des employés au sein d’une entreprise.
+Une liste des contacts clients VIP d’une entreprise ou des contrats clients ne doit pas être accessible à l’ensemble des employés au sein d’une entreprise.
 ```
 
 ### L’intégrité
@@ -26,7 +26,7 @@ Elle est définie comme la propriété d’exactitude et de complétude d’une 
 </p>
 ```markdown
 #Exemple:
-Un utilisateur lambda ne doit pas être capable de miodifier dans l’outil de gestion RH ou dans la comptabilité ses jours de congés restants ou ses informations de paie.
+Un utilisateur lambda ne doit pas être capable de modifier dans l’outil de gestion RH ou dans la comptabilité ses jours de congés restants ou ses informations de paie.
 ```
 
 ### La disponibilité
@@ -43,7 +43,7 @@ Ces points sont si importants en termes de sécurité que la norme ISO 27000 dé
 </p>
 ### Alors qu’est ce que la traçabilité ?
 <p align="justify">
-La traçabilité est la propriété qui consiste en la conservation de l’ensemble des traces de l'état des mouvements d’une information ou d’une ressource. Sans la traçabilité, il est quasiment impossible de pouvoir auditer les trois principaux critères qui ont été évoqués et si dans votre politique de gouvernance interne, vous appliquez la méthodologie PDCA (Plan Do Check Act), il est clair que vous avez des audit internes périodiques qui vous obligeront à procéder au contrôle de ces critères.
+La traçabilité est la propriété qui consiste en la conservation de l’ensemble des traces ou des changements de l'état d’une information ou d’une ressource. Sans la traçabilité, il est quasiment impossible de pouvoir auditer les trois principaux critères qui ont été évoqués et si dans votre politique de gouvernance interne, vous appliquez la méthodologie PDCA (Plan Do Check Act), il est clair que vous avez des audit internes périodiques qui vous obligeront à procéder au contrôle de ces critères.
 Lorsque nous faisons allusion à la traçabilité, nous considérons l’ensemble du cycle de vie de la ressource ou de l’information allant du lieu où l’information est stockée, le responsable de celle-ci, la procédure qui l’a régi et son lieu de destination. Il faudra donc mettre en place un mécanisme qui procédera à l’enregistrement et au suivi de l’ensemble des états appliqués aux ressources sensibles de l’information. 
 </p>
 ```markdown
