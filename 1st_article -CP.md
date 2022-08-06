@@ -1,6 +1,4 @@
-# **Article** 
-
-## **Pourquoi se spécialiser en cybersécurité ?**
+# **Pourquoi se spécialiser en cybersécurité ?**
 
 ### 1 - Le domaine de la cybersécurité
 
