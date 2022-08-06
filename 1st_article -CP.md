@@ -10,6 +10,7 @@
 <img src="img1-1-CP.png" align="center">
 </p>
 
+
 <p align="justify">
 Attaque par ransomware, fuite de données sensibles, RGPD, CloudAct, Fake news, Cybercriminalité , cyber hybride , hacking hameçonnage ,... ces termes faisant partie de l’actualité quotidienne  vous disent-ils quelque chose ? 
 
@@ -49,9 +50,7 @@ Mais ce  domaine en pleine croissance est confronté à  une forte pénurie de t
 > « Le recrutement des meilleurs talents en sécurité est devenu très complexe. 45 % des entreprises indiquent qu’elles peinent à pourvoir les postes ouverts dans cette discipline. La problématique devrait d’ailleurs s’accentuer : aujourd’hui, ce sont plus d’un million de postes de professionnels de la sécurité, à l’échelle mondiale, qui sont vacants et ce chiffre devrait bondir à 3,5 millions d’ici 2021. » .
 
 Il est donc important d'améliorer et d’adapter la formation dans les écoles, centre de formation spécialisés dans le but de combler ce gap. 
-Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchoutés par toutes sortes d'entreprises.
-
-</p>
+Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchoutés par toutes sortes d'entreprises. </p>
 
 
 ### 4 - Une diversité de métiers  à impact réel
@@ -60,21 +59,22 @@ Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchouté
 <p align="justify">
 
 
-La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des métiers opérationnels, comme les spécialistes de la gestion d’identité qui se chargeront de mettre en place des stratégies de gestion de systèmes d’authentification et de la gestion des privilèges des utilisateurs dans une organisation et des métiers décisionnels comme ceux en charge de la conformité.</p>
+La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des métiers opérationnels, comme les spécialistes de la gestion d’identité qui se chargeront de mettre en place des stratégies de gestion de systèmes d’authentification et de la gestion des privilèges des utilisateurs dans une organisation et des métiers décisionnels comme ceux en charge de la conformité.
+
+</p>
 
 <p align="center"> 
 <img src="img1-2-CP.png" align="center">
+
+
 </p>
 
 
-<p align="justify">
+<p align="justify"> Vous trouverez forcément un métier qui vous plaira :) 
 
-Vous trouverez forcément un métier qui vous plaira :) 
-
-Ces métiers font des spécialistes de la cybersécurité des acteurs indispensables pour la survie d’une entreprise  ou d’un État et même de l’infrastructure internet.
-Pour aller plus loin et avoir une meilleure connaissance (formations, compétences requises, activités et tâches quotidiennes)  desdits métiers, vous pouvez consulter  l’édition 2020 du [ panorama des métiers de la cybersécurité](https://www.ssi.gouv.fr/uploads/2021/10/anssi-panorama_metiers_cybersecurite-2020.pdf).
-
-de l’Agence de sécurité des systèmes d'information (ANSSI).
+<p align="justify"> Ces métiers font des spécialistes de la cybersécurité des acteurs indispensables pour la survie d’une entreprise  ou d’un État et même de l’infrastructure internet.</p>
+ 
+Pour aller plus loin et avoir une meilleure connaissance (formations, compétences requises, activités et tâches quotidiennes)  desdits métiers, vous pouvez consulter  l’édition 2020 du [panorama des métiers de la cybersécurité](https://www.ssi.gouv.fr/uploads/2021/10/anssi-panorama_metiers_cybersecurite-2020.pdf) de l’Agence de sécurité des systèmes d'information (ANSSI).
 
 Nous vous attendons, à bientôt :) .
 
