@@ -28,15 +28,16 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/4th_articleAD)
 
 
-### Gestion de la vie privée
+### Les bonnes pratiques sur Internet
 
 [A venir]()
 
 
 ### Carrière en cybersécurité
 
-- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/1st_article -CP)
+- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/2nd_article-CP)
 
+- [Les tests d'intrusion (pentest)](https://cyberlinks7.github.io/1st_article-CP)
 
 
 ### Mais qui sommes-nous ?
