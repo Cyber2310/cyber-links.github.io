@@ -18,11 +18,11 @@ Un test d’intrusion, penetration testing  ou pentest est une simulation de cyb
 
 <p align="justify">Les différents objectifs  d’une de pentest sont  </p>: 
 
-- <p align="justify">L’identification des vulnérabilités;
+- <p align="justify">L’identification des vulnérabilités; </p>
 
-- <p align="justify">L'évaluation des risques d’attaque associé à chaque identifiée;
+- <p align="justify">L'évaluation des risques d’attaque associé à chaque identifiée; </p>
 
-- <p align="justify">La proposition  de  plan de remédiation et d’accompagnement;
+- <p align="justify">La proposition  de  plan de remédiation et d’accompagnement; </p>
 
 
 
@@ -36,18 +36,19 @@ Un test d’intrusion, penetration testing  ou pentest est une simulation de cyb
 
 Les missions de pentest sont organisées en fonction des différents domaines de l’informatique.
 Nous avons donc :
+</p>
 
 ##### Le pentest des applications web
 
-Web app penetration testing  qui entre autres s’articulera autour des thématiques  : 
+<p align="justify"> Web app penetration testing  qui entre autres s’articulera autour des thématiques  : </p>
 
 - <p align="justify">OWASP Top 10;</p>
-- Les vulnérabilités de la logique métier des applications;
-- L’API testing;
-- Méthodes pour contourner l’authentification multifacteur(MFA), les codes/jetons uniques de connexion (OTP);
-- L’exposition des données sensibles;
-- Les attaques par dictionnaire ou par bruteforcing;
-- La sécurité des CMS ou des sites de e-commerce.
+- <p align="justify">Les vulnérabilités de la logique métier des applications;</p>
+- <p align="justify"> L’API testing;</p>
+- <p align="justify"> Méthodes pour contourner l’authentification multifacteur(MFA), les codes/jetons uniques de connexion (OTP);</p>
+- <p align="justify">L’exposition des données sensibles;</p>
+- <p align="justify">Les attaques par dictionnaire ou par bruteforcing;</p>
+- <p align="justify">La sécurité des CMS ou des sites de e-commerce.</p>
 
 
 ##### Le pentest des applications mobiles :
