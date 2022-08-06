@@ -11,11 +11,11 @@ L’ISO pour International Organization for Standardization ou Organisation Inte
 ## Mais pourquoi penser à mettre en place un tel type d’organisme ? Quels sont les principes clés derrière l’élaboration des normes ?
 
 <p align="justify">
-Premièrement, les normes ISO sont réalisées afin de répondre aux besoins du marché. En effet, qu’il s’agisse de demandes officielles industrielles ou officeuses, à travers les parties prenantes ou les utilisateurs, il n’est décidé de mettre en place une norme que suite à des demandes du marché. Ensuite, comme évoqué dans la définition, l’ISO est composé d’experts qui sont à l’origine de ces différentes normes. Organisés en divers comités techniques, ces experts mondiaux élaborent les normes de bout en bout en guise de réponse aux demandes du marché. Les comites techniques, bien que composés d’experts, intègrent de même les principaux acteurs liés au secteur d’activité cible tels que les associations, les consommateurs, les gouvernements, etc. Enfin, il est important de rappeler que ces normes représentent le résultat d’un consensus car l’ensemble des pays membre de l’ISO, quelque soit leur statut géopolitique et économique, possèdent la même influence dans l’élaboration des normes.
+Premièrement, les normes ISO sont réalisées afin de répondre aux besoins du marché. En effet, qu’il s’agisse de demandes officielles industrielles ou officieuses, à travers les parties prenantes ou les utilisateurs, il n’est décidé de mettre en place une norme que suite à des demandes du marché. Ensuite, comme évoqué dans la définition, l’ISO est composé d’experts qui sont à l’origine de ces différentes normes. Organisés en divers comités techniques, ces experts mondiaux élaborent les normes de bout en bout en guise de réponse aux demandes du marché. Les comités techniques, bien que composés d’experts, intègrent de même les principaux acteurs liés au secteur d’activité cible tels que les associations, les consommateurs, les gouvernements, etc. Enfin, il est important de rappeler que ces normes représentent le résultat d’un consensus car l’ensemble des pays membre de l’ISO, quelque soit leur statut géopolitique et économique, possèdent la même influence dans l’élaboration des normes.
 </p>  
 
 <p align="justify">
-Pour finir avec cette partie, nous souhaitons évoquer quelquesn familles de normes connues telles que les familles ISO 9000 et ISO 14000 qui correspondent respectivement aux références internationales en matière de management de la qualité et de l’environnement pour les organismes. Mais pour revenir à notre sujet, nous allons parler de la famille des normes ISO 27000 qui, elle, attraie à la sécurité de l’information.
+Pour finir avec cette partie, nous souhaitons évoquer quelques familles de normes connues telles que les familles ISO 9000 et ISO 14000 qui correspondent respectivement aux références internationales en matière de management de la qualité et de l’environnement pour les organismes. Mais pour revenir à notre sujet, nous allons parler de la famille des normes ISO 27000 qui, elle, attraie à la sécurité de l’information.
 </p>
 
 ## Pourquoi avons nous décidé d’en parler ?
@@ -32,7 +32,7 @@ La famille ISO 27000 a été créé en 2005 et est dédiée à la sécurité de 
 - <p align="justify">Un document qui porte sur le vocabulaire associé à la norme;
 - <p align="justify">Les exigences qui, lorsqu’elles sont respectées, permettent à une entreprise de se conformer à des règles établies dans ces recueils d’exigences;
 - <p align="justify">Les lignes directrices vis à vis du SMSI qui donnent les caractéristiques et les bonnes pratiques à suivre pour sa mise en place;
-- <p align="justify">Les lignes directrices propres à un secteur en particulier vis à vis du SMSI. Ils évoquent les bonnes pratiques par secteur d’activité dans la mise en place du SMSI pour garantir la sécurité.
+- <p align="justify">Les lignes directrices propres à un secteur en particulier vis à vis du SMSI. Elles évoquent les bonnes pratiques par secteur d’activité dans la mise en place du SMSI pour garantir la sécurité.
 
 
 <p align="justify">
@@ -40,7 +40,7 @@ Dans la norme ISO 27000, il existe trois normes, c’est à dire trois documents
 </p>
 
 
-- <p align="justify">ISO/IEC27000qui introduit le vocabulaire et les concepts clés qui s’applique lors de la mise en place du SMSI;
+- <p align="justify">ISO/IEC27000qui introduit le vocabulaire et les concepts clés qui s’appliquent lors de la mise en place du SMSI;
 
 - <p align="justify">ISO/IEC27001 qui définit les exigences du SMSI et propose un ensemble de mesures de sécurité dans son annexe A;
 
@@ -58,7 +58,7 @@ Dans la norme ISO 27000, il existe trois normes, c’est à dire trois documents
 
 - <p align="justify">ISO/IEC27008 qui représente les lignes directrices pour les auditeurs des contrôles de sécurité de l’information;
 
-- <p align="justify">ISO/IEC27009 qui représente les exigences pour les rédacteurs de lignes directrices de mise en oeuvre ISO/IEC27001 spécifiques à un secteur;
+- <p align="justify">ISO/IEC27009 qui représente les exigences pour les rédacteurs de lignes directrices de mise en oeuvre de l'ISO/IEC27001 spécifiques à un secteur;
 
 - <p align="justify">ISO/IEC27011 qui représente les lignes directrices pour l’utilisation de l’ISO/IEC27002 dans le domaine des télécommunications;
 
