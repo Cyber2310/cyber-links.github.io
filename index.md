@@ -28,7 +28,7 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/4th_articleAD)
 
 
-### Les bonnes pratiques sur Internet
+### Gestion de la vie privée
 
 [A venir]()
 
