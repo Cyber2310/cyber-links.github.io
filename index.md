@@ -35,9 +35,9 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Carrière en cybersécurité
 
-- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/1st_article-CP)
+- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/1st_articleCP)
 
-- [Les tests d'intrusion (pentest)](https://cyberlinks7.github.io/2nd_article-CP)
+- [Les tests d'intrusion (pentest)](https://cyberlinks7.github.io/2nd_articleCP)
 
 
 ### Mais qui sommes-nous ?
