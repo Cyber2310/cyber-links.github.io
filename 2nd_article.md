@@ -56,7 +56,7 @@ Avant de les délivrer, nous souhaitons revenir sur l’importance de réaliser 
 En ce qui nous concerne, nous utilisons les flux RSS pour réaliser notre veille technologique. De nombreux sites d’informations proposent des flux RSS qui peuvent être agrégés via des outils gratuits tels que celui que nous utilisons dénommé Netvibes. Il existe néanmoins divers outils, des agrégateurs de flux que vous pouvez rechercher par vous même.
 Pour rappel, "Les flux RSS (“Really Simple Syndication” en français “Syndication réellement simple”) sont des fichiers dont l’objectif est de stocker une liste de contenus ou de pages web.” comme le définit le site 1min30. 
 Revenons à Netvibes. Il permet de créer un dashboard fournissant les informations provenant de l’ensemble des flux RSS que vous choisirez conformément à vos centres d’intérêts et vos besoins. Si vous avez du mal à l’utiliser, n’hésitez pas à nous le signifier, on vous aidera :-).
-Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le **CERT FR** (Computer Emergency Response Team Français), l’ANSSI, la CNIL, Zataz, Dark reading pour en citer que quelques unes.
+Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le CERT FR (Computer Emergency Response Team Français), l’ANSSI, la CNIL, Zataz, Dark reading pour en citer que quelques unes.
 </p>
 
 ![Netvibes](Netvibes.png)
