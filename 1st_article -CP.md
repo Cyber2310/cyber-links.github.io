@@ -6,7 +6,9 @@
 
 
 
-![alt text](img1-1-CP.png)
+<p align="center"> 
+<img src="img1-1-CP.png" align="center">
+</p>
 
 <p align="justify">
 Attaque par ransomware, fuite de données sensibles, RGPD, CloudAct, Fake news, Cybercriminalité , cyber hybride , hacking hameçonnage ,... ces termes faisant partie de l’actualité quotidienne  vous disent-ils quelque chose ? 
@@ -60,7 +62,10 @@ Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchouté
 
 La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des métiers opérationnels, comme les spécialistes de la gestion d’identité qui se chargeront de mettre en place des stratégies de gestion de systèmes d’authentification et de la gestion des privilèges des utilisateurs dans une organisation et des métiers décisionnels comme ceux en charge de la conformité.</p>
 
-![alt text](img1-2-CP.png)
+<p align="center"> 
+<img src="img1-2-CP.png" align="center">
+</p>
+
 
 <p align="justify">
 
