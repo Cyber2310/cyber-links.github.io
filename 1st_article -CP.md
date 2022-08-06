@@ -49,7 +49,7 @@ Mais ce  domaine en pleine croissance est confronté à  une forte pénurie de t
   
 > « Le recrutement des meilleurs talents en sécurité est devenu très complexe. 45 % des entreprises indiquent qu’elles peinent à pourvoir les postes ouverts dans cette discipline. La problématique devrait d’ailleurs s’accentuer : aujourd’hui, ce sont plus d’un million de postes de professionnels de la sécurité, à l’échelle mondiale, qui sont vacants et ce chiffre devrait bondir à 3,5 millions d’ici 2021. » .
 
-Il est donc important d'améliorer et d’adapter la formation dans les écoles, centre de formation spécialisés dans le but de combler ce gap. 
+<p align="justify">Il est donc important d'améliorer et d’adapter la formation dans les écoles, centre de formation spécialisés dans le but de combler ce gap. 
 Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchoutés par toutes sortes d'entreprises. </p>
 
 
