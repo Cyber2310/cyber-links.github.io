@@ -27,23 +27,25 @@ Alors maintenant que tout est clair, vous vous dites mais oui c’est très bien
 ## Quelles sont les grandes étapes pour mettre en place une veille technologique ?
 
 <p align="justify">
-Qui dit veille technologique, dit bien évidemment … recherche perpétuelle et je suis persuadé que vous avez dû le comprendre en ce moment. Cependant, cette recherche doit être ciblée, amenuisée dépendant de vos centres d’intérêts. Déclinons donc le procédé en 3 étapes:
+Qui dit veille technologique, dit bien évidemment … recherche perpétuelle et je suis persuadé que vous avez dû le comprendre en ce moment. Cependant, cette recherche doit être ciblée, amenuisée dépendant de vos centres d’intérêts. Déclinons donc le procédé en 3 étapes:</p>
 
-- Identifier ses centres d’intérêts et circonscrire ses besoins par rapport aux centres d’intérêts identifiés. Par exemple, imaginons vous être intéressés par la sécurité informatique fonctionnelle, mais quels sont vos besoins en particuliers ? Voulez vous monter en compétence sur des problématiques de gouvernance ? de risques ? de conformité aux référentiels? Ou les trois ? Vous devez avoir une idée claire de vos besoins sinon vous ne serez pas efficace;
+- <p align="justify"> Identifier ses centres d’intérêts et circonscrire ses besoins par rapport aux centres d’intérêts identifiés. Par exemple, imaginons vous êtes intéressé par la sécurité informatique fonctionnelle, mais quels sont vos besoins en particuliers ? Voulez vous monter en compétence sur des problématiques de gouvernance ? de risques ? de conformité aux référentiels? Ou les trois ? Vous devez avoir une idée claire de vos besoins sinon vous ne serez pas efficace;
 
-- Identifier les sources d’informations crédibles et légitimes vis-à-vis des besoins identifiés dans l’étape précédente. Pour rebondir sur l’exemple de la première étape, il faut prioriser les sites connus et réputés dans le domaine de la sécurité fonctionnelle tel que les sites de normalisation internationale (ISO), l’ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information), le site officiel du NIST, etc.
-</p>
+- <p align="justify">Identifier les sources d’informations crédibles et légitimes vis-à-vis des besoins identifiés dans l’étape précédente. Pour rebondir sur l’exemple de la première étape, il faut prioriser les sites connus et réputés dans le domaine de la sécurité fonctionnelle tel que les sites de normalisation internationale (ISO), l’ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information), le site officiel du NIST, etc.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/ANSSI_Logo.svg/1200px-ANSSI_Logo.svg.png" width="100" height="100" align="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISO_Logo_%28Red_square%29.svg/1200px-ISO_Logo_%28Red_square%29.svg.png" width="100" height="100" align="center">  <img src="https://www.synetis.com/wp-content/uploads/2015/04/NIST_Logo.jpg" width="180" height="100" align="center">
 </p>
 
+- <p align="justify">Trouver un moyen de les agréger afin de facilement et rapidement pouvoir accéder à ces informations.
+
 <p align="justify">
-- Trouver un moyen de les agréger afin de facilement et rapidement pouvoir accéder à ces informations.
+Pour les débutants, il peut être intéressant d’aller sur des thématiques générales avant de mettre en place un système d’entonnoir sur leur veille car cela leur permettra d’agrandir leur culture technologique de manière générale et leur facilitera par la suite la sélection des thématiques qui leur paraissent plus intéressantes.</p>
 
-Pour les débutants, il peut être intéressant d’aller sur des thématiques générales avant de mettre en place un système d’entonnoir sur leur veille car cela leur permettra d’agrandir leur culture technologique de manière générale et leur facilitera par la suite la sélection des thématiques qui leur paraissent plus intéressantes.
-C’est bien de procéder aux étapes précédentes mais le plus important reste d’analyser les informations récoltées. Il faut avant tout, en cas d’utilisation de sources pas très crédibles, vérifier les informations collectées avant de les diffuser, attention aux fake news.
+<p align="justify">
+C’est bien de procéder aux étapes précédentes mais le plus important reste d’analyser les informations récoltées. Il faut avant tout, en cas d’utilisation de sources pas très crédibles, vérifier les informations collectées avant de les diffuser, attention aux fake news.</p>
 
+<p align="justify">
 C’est bien tout cela, mais vous avez dû le remarquer vous êtes sur un site dédié à la cybersécurité :-D, nous allons donc vous donner des ressources et nos astuces personnelles pour la réalisation de notre veille technologique.
 </p>
 
