@@ -56,15 +56,15 @@ Avant de les délivrer, nous souhaitons revenir sur l’importance de réaliser 
 En ce qui nous concerne, nous utilisons les flux RSS pour réaliser notre veille technologique. De nombreux sites d’informations proposent des flux RSS qui peuvent être agrégés via des outils gratuits tels que celui que nous utilisons dénommé Netvibes. Il existe néanmoins divers outils, des agrégateurs de flux que vous pouvez rechercher par vous même.
 Pour rappel, "Les flux RSS (“Really Simple Syndication” en français “Syndication réellement simple”) sont des fichiers dont l’objectif est de stocker une liste de contenus ou de pages web.” comme le définit le site 1min30. 
 Revenons à Netvibes. Il permet de créer un dashboard fournissant les informations provenant de l’ensemble des flux RSS que vous choisirez conformément à vos centres d’intérêts et vos besoins. Si vous avez du mal à l’utiliser, n’hésitez pas à nous le signifier, on vous aidera :-).
-Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le **CERT FR** (Computer Emergency Response Team Français), l’**ANSSI**, la **CNIL**, **Zataz**, **Dark reading** pour en citer que quelques unes.
+Je vous partage une capture de mon dashboard personnel mais retenez qu’il est assez exhaustif et vous pourrez trouver partout sur Internet des ressources typiques cybersécurité telles que le **CERT FR** (Computer Emergency Response Team Français), l’ANSSI, la CNIL, Zataz, Dark reading pour en citer que quelques unes.
 </p>
 
 ![Netvibes](Netvibes.png)
 
 <p align="justify">
-Il est de même possible de réaliser sa veille via les réseaux professionnels du style Linkedin mais aussi Twitter  où de nombreux acteurs réalisent de la veille technologique active. Il vous suffit de les suivre et de consulter de temps à autre votre file d’actualités afin de réaliser votre veille.
+Il est de même possible de réaliser sa veille via les réseaux professionnels du style Linkedin mais aussi Twitter  où de nombreux acteurs réalisent de la veille technologique active. Il vous suffit de les suivre et de consulter de temps à autre votre file d’actualité afin de réaliser votre veille.
 Par rapport à la cybersécurité, nous vous encourageons à vous abonner aux profils suivants qui sont des professionnels expérimentés et qui réalisent une veille vraiment proactive. 
-Cette liste est exhaustive mais vous verrez bien évidemment que des profils se démarquent plus que certains par rapport à vos centres d’intérêts personnels. Nous vous proposons donc:
+Cette liste est non exhaustive mais vous verrez bien évidemment que des profils se démarquent plus que certains par rapport à vos centres d’intérêts personnels. Nous vous proposons donc:
 </p>
 
 - [M. Matthieu Garin](https://www.linkedin.com/in/matthieu-garin-3336481?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABF09cBV8SxQpfKMC_4DtEfRLTp7_RH7H8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3ByYCbm%2BfuQFSaZqA%2Bg2Pj8g%3D%3D)
