@@ -43,8 +43,11 @@ Nous avons donc :
 <p align="justify"> Web app penetration testing  qui entre autres s’articulera autour des thématiques  : </p>
 
 - <p align="justify">OWASP Top 10;</p>
+
 - <p align="justify">Les vulnérabilités de la logique métier des applications;</p>
+
 - <p align="justify"> L’API testing;</p>
+
 - <p align="justify"> Méthodes pour contourner l’authentification multifacteur(MFA), les codes/jetons uniques de connexion (OTP);</p>
 - <p align="justify">L’exposition des données sensibles;</p>
 - <p align="justify">Les attaques par dictionnaire ou par bruteforcing;</p>
