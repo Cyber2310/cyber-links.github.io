@@ -134,12 +134,3 @@ Cet excellent  [lien](https://www.vumetric.com/blog/top-penetration-testing-meth
 </p>
 
 <p align="justify"> <strong> Keep Hacking </strong>. 
-</p>
-
-
-L’AD permet de fournir différents services globaux à travers l’ensemble des objets avec lesquels il communique tel que:
-</p>
-
-- <p align="justify">La mise à disposition d’un mécanisme de requête et d’index qui permet de rechercher et de publier si besoin des objets et leurs attributs
-- <p align="justify">L’utilisation d’un catalogue global contenant les informations sur chaque objet du répertoire. Les utilisateurs et les administrateurs sont capables d’utiliser des outils sur leurs différents postes afin d’effectuer des recherches dans les services de domaine Active Directory.
-- <p align="justify">La mise à disposition d’un service de réplication distribuant les informations entre les contrôleurs de domaine telles que les mises à jour d’annuaire.
