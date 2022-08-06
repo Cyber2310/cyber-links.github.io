@@ -14,18 +14,18 @@
 
 
 Un test d’intrusion, penetration testing  ou pentest est une simulation de cyberattaque contre un système informatique.  Il est pratiqué  par un pentester ou  hacker éthique qui  est un spécialiste de la cybersécurité.
-
-
-Les différents objectifs  d’une de pentest sont :
-
-- L’identification des vulnérabilités;
-
-- L'évaluation des risques d’attaque associé à chaque identifiée;
-
-- La proposition  de  plan de remédiation et d’accompagnement;
-
-
 </p>
+
+<p align="justify">Les différents objectifs  d’une de pentest sont : </p>
+
+- <p align="justify">L’identification des vulnérabilités;</p>
+
+- <p align="justify">L'évaluation des risques d’attaque associé à chaque identifiée;</p>
+
+- <p align="justify">La proposition  de  plan de remédiation et d’accompagnement;</p>
+
+
+
 
 
 
@@ -85,7 +85,7 @@ Web app penetration testing  qui entre autres s’articulera autour des thémati
  - Le dépôt d’objets malveillants ( usb killer, lan turtle, OMG Cable)   à certains endroits.    
 
 
-</p>
+
 
 
 
