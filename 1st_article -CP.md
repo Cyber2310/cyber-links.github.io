@@ -18,7 +18,7 @@ Si non , alors bienvenue dans le monde de la cybersécurité.
 
 Selon wikipédia, la cybersécurité  désigne  le rôle de l'ensemble des lois, politiques, outils, dispositifs, concepts et mécanismes de sécurité, méthodes de gestion des risques, actions, formations, bonnes pratiques et technologies qui peuvent être utilisés pour protéger les personnes et les actifs informatiques matériels et immatériels (connectés directement ou indirectement à un réseau) des États et des organisations.  Elle est basée sur les principes de Confidentialité , d’Intégrité et de Disponibilité. Nous avons un article abordant ces trois critères que nous vous invitons à lire.
 
-Une personne travaillant dans la cybersécurité aura  pour objectif de protéger les infrastructures informatiques  contre des acteurs malveillants et ce, quelque soit la nature et le type d’entreprise, <b>un héros du monde numérique</b> :).
+Une personne travaillant dans la cybersécurité aura  pour objectif de protéger les infrastructures informatiques  contre des acteurs malveillants et ce, quelque soit la nature et le type d’entreprise, <b class="term"> un héros du monde numérique </b> :).
 </p>
 
 
