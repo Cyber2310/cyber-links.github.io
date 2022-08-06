@@ -76,8 +76,8 @@ La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des mé
  
 Pour aller plus loin et avoir une meilleure connaissance (formations, compétences requises, activités et tâches quotidiennes)  desdits métiers, vous pouvez consulter  l’édition 2020 du panorama des métiers de la cybersécurité de l’Agence de sécurité des systèmes d'information (ANSSI) dont le lien se trouve ci-dessous.
 
-Nous vous attendons, à bientôt :) . </p>
+Nous vous attendons, à bientôt :) .</p>
 
 ## Source
   
-[Panorama des métiers de la cybersécurité](https://www.ssi.gouv.fr/uploads/2021/10/anssi-panorama_metiers_cybersecurite-2020.pdf)
+- [Panorama des métiers de la cybersécurité](https://www.ssi.gouv.fr/uploads/2021/10/anssi-panorama_metiers_cybersecurite-2020.pdf)
