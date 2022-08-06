@@ -27,9 +27,6 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Active Directory : Qu’est ce que les IoE AD et quelques bonnes pratiques au niveau de l’AD](https://cyberlinks7.github.io/3rd_articleAD)
 - [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/4th_articleAD)
 
-### Les conseils professionnels dans le domaine de la cybersécurité
-
-[A venir]()
 
 ### Les bonnes pratiques sur Internet
 
@@ -38,7 +35,7 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Carrière en cybersécurité
 
-- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/1st_article-CP)
+- [Pourquoi se spécialiser en cybersécurité ?](https://cyberlinks7.github.io/1st_article -CP)
 
 
 
