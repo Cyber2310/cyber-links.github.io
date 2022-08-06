@@ -18,11 +18,11 @@ Un test d’intrusion, penetration testing  ou pentest est une simulation de cyb
 
 <p align="justify">Les différents objectifs  d’une de pentest sont  </p>: 
 
-- <p align="justify">L’identification des vulnérabilités; </p>
+- <p align="justify">L’identification des vulnérabilités; 
 
-- <p align="justify">L'évaluation des risques d’attaque associé à chaque identifiée; </p>
+- <p align="justify">L'évaluation des risques d’attaque associé à chaque identifiée; 
 
-- <p align="justify">La proposition  de  plan de remédiation et d’accompagnement; </p>
+- <p align="justify">La proposition  de  plan de remédiation et d’accompagnement; 
 
 
 
