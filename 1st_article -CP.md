@@ -4,10 +4,11 @@
 
 ### 1 - Le domaine de la cybersécurité
 
-<p align="justify">
+
 
 ![alt text](img1-1-CP.png)
 
+<p align="justify">
 Attaque par ransomware, fuite de données sensibles, RGPD, CloudAct, Fake news, Cybercriminalité , cyber hybride , hacking hameçonnage ,... ces termes faisant partie de l’actualité quotidienne  vous disent-ils quelque chose ? 
 
 Si non , alors bienvenue dans le monde de la cybersécurité. 
