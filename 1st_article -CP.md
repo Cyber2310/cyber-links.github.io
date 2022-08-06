@@ -4,10 +4,11 @@
 
 ### 1 - Le domaine de la cybersécurité
 
-<p align="justify">
+
 
 ![alt text](img1-1-CP.png)
 
+<p align="justify">
 Attaque par ransomware, fuite de données sensibles, RGPD, CloudAct, Fake news, Cybercriminalité , cyber hybride , hacking hameçonnage ,... ces termes faisant partie de l’actualité quotidienne  vous disent-ils quelque chose ? 
 
 Si non , alors bienvenue dans le monde de la cybersécurité. 
@@ -41,9 +42,9 @@ Entrer dans le secteur de la cybersécurité, c’est entrer dans le monde de la
 
 Le marché mondial de la cybersécurité était évalué à 132,94 milliards USD en 2021 et devrait croître à un taux de croissance annuel de 14,1 % de 2022 à 2027. Ce marché en pleine croissance a fortement augmenté ces dernières années à  cause de la pandémie qui a occasionné l’adoption du télétravail ou du travail hybride mais aussi des cyberattaques de plus en plus sophistiquées  par des acteurs malveillants de plus en plus bien organisés.
 
-Mais ce  domaine en pleine croissance est confronté à  une forte pénurie de talents sur tous les continents à tel point que Christophe Auberger, directeur technique, Fortinet affirmait que : 	
-
->  « Le recrutement des meilleurs talents en sécurité est devenu très complexe. 45 % des entreprises indiquent qu’elles peinent à pourvoir les postes ouverts dans cette discipline. La problématique devrait d’ailleurs s’accentuer : aujourd’hui, ce sont plus d’un million de postes de professionnels de la sécurité, à l’échelle mondiale, qui sont vacants et ce chiffre devrait bondir à 3,5 millions d’ici 2021. » .
+Mais ce  domaine en pleine croissance est confronté à  une forte pénurie de talents sur tous les continents à tel point que Christophe Auberger, directeur technique, Fortinet affirmait que : </p>
+  
+> « Le recrutement des meilleurs talents en sécurité est devenu très complexe. 45 % des entreprises indiquent qu’elles peinent à pourvoir les postes ouverts dans cette discipline. La problématique devrait d’ailleurs s’accentuer : aujourd’hui, ce sont plus d’un million de postes de professionnels de la sécurité, à l’échelle mondiale, qui sont vacants et ce chiffre devrait bondir à 3,5 millions d’ici 2021. » .
 
 Il est donc important d'améliorer et d’adapter la formation dans les écoles, centre de formation spécialisés dans le but de combler ce gap. 
 Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchoutés par toutes sortes d'entreprises.
@@ -57,10 +58,11 @@ Si vous voulez entrer dans la cybersécurité, sachez que vous serez chouchouté
 <p align="justify">
 
 
-La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des métiers opérationnels, comme les spécialistes de la gestion d’identité qui se chargeront de mettre en place des stratégies de gestion de systèmes d’authentification et de la gestion des privilèges des utilisateurs dans une organisation et des métiers décisionnels comme ceux en charge de la conformité.
+La cybersécurité regorge d’une panoplie de sous-domaines. Nous avons des métiers opérationnels, comme les spécialistes de la gestion d’identité qui se chargeront de mettre en place des stratégies de gestion de systèmes d’authentification et de la gestion des privilèges des utilisateurs dans une organisation et des métiers décisionnels comme ceux en charge de la conformité.</p>
 
 ![alt text](img1-2-CP.png)
 
+<p align="justify">
 
 Vous trouverez forcément un métier qui vous plaira :) 
 
