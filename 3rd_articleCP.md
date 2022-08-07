@@ -1,6 +1,6 @@
 <p align="center">
 
-# **Sécurité offensive : certifications et plateformes d'entraînement**
+<h1>Sécurité offensive : certifications et plateformes d'entraînement</h1>
 
 </p>
 
@@ -32,8 +32,6 @@ Les entreprises de toute taille et les particuliers et même les Etats  sont à 
 
 
 
-
-
 ### 2 - Les certifications en sécurité offensive
 
 
@@ -45,7 +43,7 @@ Dans le domaine de la sécurité offensive, les  certifications sont très utile
 
 <p align="justify">
 
-Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Security, EC-Council</strong> mais aussi de nouveaux organismes qui commencent à se faire connaître et proposer du contenu précis et de qualité. Ce sont en autres eLearningSecurity , Pentester Academy, Zero point security,  TCM Security.
+Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Security, EC-Council</strong> mais aussi de nouveaux organismes qui commencent à se faire connaître et proposer du contenu précis et de qualité. Ce sont en autres <strong>eLearningSecurity , Pentester Academy, Zero point security,  TCM Security.</strong>
 
  </p>
 
