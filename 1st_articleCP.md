@@ -79,8 +79,6 @@ Nous vous attendons, à bientôt :).
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <p align="justify"> <strong> A bientôt :) </strong>
 </p>
