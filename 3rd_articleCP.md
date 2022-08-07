@@ -4,7 +4,8 @@
 
 </div>
 
-
+<br/>
+<br/>
 
 <p align="center"> 
 <img src="img3-0-CP.png" align="center">
@@ -59,14 +60,7 @@ Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Secur
 
 
  </p>
- <p align="justify">
 
-
- </p>
- <p align="justify">
-
-
- </p>
 
 ### 3 - Les différents types et mode  de test d’intrusion
 
