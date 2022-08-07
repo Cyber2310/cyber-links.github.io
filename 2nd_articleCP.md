@@ -35,57 +35,57 @@ Les différents objectifs  d’une de pentest sont :
 <p align="justify">
 
 Les missions de pentest sont organisées en fonction des différents domaines de l’informatique.
-Nous avons donc :
-
-##### Le pentest des applications web
-
-Web app penetration testing  qui entre autres s’articulera autour des thématiques  : 
-
-- OWASP Top 10;
-- Les vulnérabilités de la logique métier des applications;
-- L’API testing;
-- Méthodes pour contourner l’authentification multifacteur(MFA), les codes/jetons uniques de connexion (OTP);
-- L’exposition des données sensibles;
-- Les attaques par dictionnaire ou par bruteforcing;
-- La sécurité des CMS ou des sites de e-commerce.
+Nous avons donc : </p>
 
 
-##### Le pentest des applications mobiles :
+ ##### <p align="justify"> Le pentest des applications web</p>
 
-- Le rootage/jailbreaking ;
+<p align="justify">Web app penetration testing  qui entre autres s’articulera autour des thématiques  : </p>
 
-- L’interception de trafic réseau; 
-
-- La recherche de vulnérables des composants ( tokens, OS , librairies)
-
-
-##### Le pentest réseau & infrastructures :
-
- - Le contournement  des IDS, IPS, Firewall;
- - Les attaques DoS/DDoS;
- - L’exploitation des vulnérabilités liées aux protocoles;
- - Active directory;
- - Les attaques des réseaux  sans fils;
- - La recherche de vulnérabilités sur les VPN
-- L'exfiltration des données.
+- <p align="justify"> OWASP Top 10; </p>
+- <p align="justify"> Les vulnérabilités de la logique métier des applications; </p>
+- <p align="justify">L’API testing; </p>
+- <p align="justify">Méthodes pour contourner l’authentification multifacteur(MFA), les codes/jetons uniques de connexion (OTP); </p>
+- <p align="justify">L’exposition des données sensibles; </p>
+- <p align="justify">Les attaques par dictionnaire ou par bruteforcing; </p>
+- <p align="justify">La sécurité des CMS ou des sites de e-commerce. </p>
 
 
-##### Le Social engineering :
+##### <p align="justify"> Le pentest des applications mobiles : </p>
 
-- Les attaques par phishing ou hameçonnage ;
-- Les attaques par  vishing (arnaque au téléphone) ;
-- Les attaques par  smshing (arnaque via sms );
-- Les attaques via les technologies client-side ( adwares par exemple).
+- <p align="justify"> Le rootage/jailbreaking ;</p>
 
-##### Le pentest physique :
+- <p align="justify"> L’interception de trafic réseau; </p>
 
- - Le crochetage de serrures ;
- - Le détournement de badge RFID ;
- - Le contournement des caméras de sécurité , objets connectés;
- - Le dépôt d’objets malveillants ( usb killer, lan turtle, OMG Cable)   à certains endroits.    
+- <p align="justify"> La recherche de vulnérables des composants ( tokens, OS , librairies)</p>
 
 
-</p>
+##### <p align="justify"> Le pentest réseau & infrastructures : </p>
+
+ - <p align="justify"> Le contournement  des IDS, IPS, Firewall;</p>
+ - <p align="justify"> Les attaques DoS/DDoS;</p>
+ - <p align="justify"> L’exploitation des vulnérabilités liées aux protocoles;</p>
+ - <p align="justify"> Active directory;</p>
+ - <p align="justify"> Les attaques des réseaux  sans fils;</p>
+ - <p align="justify"> La recherche de vulnérabilités sur les VPN</p>
+- <p align="justify"> L'exfiltration des données.</p>
+
+
+##### <p align="justify"> Le Social engineering :</p>
+
+- <p align="justify"> Les attaques par phishing ou hameçonnage ;</p>
+- <p align="justify"> Les attaques par  vishing (arnaque au téléphone) ;</p>
+- <p align="justify"> Les attaques par  smshing (arnaque via sms );</p>
+- <p align="justify"> Les attaques via les technologies client-side ( adwares par exemple).</p>
+
+##### <p align="justify"> Le pentest physique :</p>
+
+ - <p align="justify"> Le crochetage de serrures ;</p>
+ - <p align="justify"> Le détournement de badge RFID ;</p>
+ - <p align="justify"> Le contournement des caméras de sécurité , objets connectés;</p>
+ - <p align="justify"> Le dépôt d’objets malveillants ( usb killer, lan turtle, OMG Cable)   à certains endroits.    </p>
+
+
 
 
 
