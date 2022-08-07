@@ -77,6 +77,11 @@ Nous vous attendons, à bientôt :).
 
 [Panorama des métiers de la cybersécurité](https://www.ssi.gouv.fr/uploads/2021/10/anssi-panorama_metiers_cybersecurite-2020.pdf)
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 <p align="justify"> <strong> A bientôt :) </strong>
 </p>
 
