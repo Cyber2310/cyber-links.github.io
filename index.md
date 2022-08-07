@@ -17,16 +17,16 @@
 Cette page est la page de présentation de notre blog qui vous guidera vers l'ensemble de nos articles. Ces articles, pour le moment, sont orientés autour des domaines suivants:
 </p>
 
-- La GRC pour Gouvernance Risque & Conformité
+- <strong>La GRC pour Gouvernance Risque & Conformité</strong>
 <br/>
 
-- Les pentests Active Directory
+-<strong> Les pentests Active Directory</strong>
 <br/>
 
-- Les conseils professionnels dans le domaine de la cybersécurité
+- <strong>Les conseils professionnels dans le domaine de la cybersécurité</strong>
 <br/>
 
-- La gestion de sa vie privée numérique
+- <strong>La gestion de sa vie privée numérique</strong>
 
 En fonction de vos intérêts, choisissez ci-dessous les articles qui vous intéressent.
 
