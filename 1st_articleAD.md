@@ -4,6 +4,8 @@
 <h1><strong>Active Directory: Les bases à connaître)</strong></h1>
 
 </div>
+<br/>
+<br/>
 
 <p align="justify">Cette série d'article portera sur l’Active Directory et les principaux vecteurs de risques auxquels il est soumis. En effet, bon nombre d’entreprise de nos jours utilisent l’AD pour bien de fonctions. Dans l’optique de favoriser la compréhension de ce point clé par tous, nous allons entamer cette série avec un article portant sur le vocabulaire à connaître sur l’AD.</p>
 

@@ -4,6 +4,8 @@
 <h1><strong>Active Directory : Sa structure physique et pourquoi doit-on le sécuriser ?</strong></h1>
 
 </div>
+<br/>
+<br/>
 <p align="justify">
 Dans notre précédent article, nous avons abordé les bases de l’Active Directory en partant de la fonction principale de l’AD, à la définition des types de ressources en évoquant sa structure logique. Nous allons maintenant évoquer la structure physique de l’AD et les raisons pour lesquelles il est indispensable de le sécuriser. 
 </p>

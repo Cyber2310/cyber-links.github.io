@@ -4,7 +4,12 @@
 <h1><strong>Présentation de la famille ISO 27000</strong></h1>
 
 </div>
+<br/>
+<br/>
+<p align="justify">
 Dans cet article, nous souhaitons aborder le terme ISO 27000 et décrire cette famille de normes en présentant les normes qui sont les plus utilisées, leur utilité et pourquoi, nous entendons de plus en plus parler de cette norme de nos jours.
+
+</p>
 
 ## Entamons déjà de définir ce que c’est que l’ISO ?
 

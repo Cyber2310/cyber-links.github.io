@@ -1,11 +1,13 @@
-# Article 2
-# Comment réaliser une veille technologique efficace ?
+
 
 <div align="center">
 
-<h1><strong>Active Directory : Sa structure physique et pourquoi doit-on le sécuriser ?</strong></h1>
+<h1><strong>Comment réaliser une veille technologique efficace ?</strong></h1>
 
 </div>
+<br/>
+<br/>
+
 <p align="justify">
 Qu’est ce que c’est la veille technologique ? Pourquoi la réaliser ? Dans cet article, nous souhaitons aborder avec vous l’importance de réaliser une veille technologique efficace pour l’ensemble des acteurs du secteur informatique et plus particulièrement de la cybersécurité. Nous vous donnerons de même des conseils pour vous aider à la mettre en œuvre. 
 </p>

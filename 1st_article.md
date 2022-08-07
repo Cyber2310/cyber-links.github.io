@@ -1,10 +1,11 @@
-# **Article 1** 
 
 <div align="center">
 
 <h1><strong>Les critères de la sécurité de l’information: CID, Confidentialité - Intégrité - Disponibilité</strong></h1>
 
 </div>
+<br/>
+<br/>
 
 <p align="justify">
 Si vous êtes nouveau en Cybersécurité ou avez maintenant quelques cheveux blancs dans le domaine, vous avez certainement entendu parlé des critères de base de sécurité informatique que sont la confidentialité, l’intégrité et la disponibilité ou CIA ( Confidentiality Integrity Availability) en anglais. Nous allons donc faire une brève présentation de ces critères accompagné d’un exemple dans le but de les faire découvrir aux plus jeunes et de faire une petite piqûre de rappel pour les plus anciens.
