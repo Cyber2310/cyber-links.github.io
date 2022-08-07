@@ -38,7 +38,7 @@ Les missions de pentest sont organisées en fonction des différents domaines de
 Nous avons donc : </p>
 
 
-#### Le pentest des applications web
+#### Le pentest des applications web :
 
 <p align="justify" >Web app penetration testing  qui entre autres s’articulera autour des thématiques  : </p>
 
