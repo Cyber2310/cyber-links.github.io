@@ -39,6 +39,8 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 - [Les tests d'intrusion (pentest)](https://cyberlinks7.github.io/2nd_articleCP)
 
+- [ Sécurité offensive : certifications et plateformes d'entraînement](https://cyberlinks7.github.io/3rd_articleCP)
+
 
 ### Mais qui sommes-nous ?
 
