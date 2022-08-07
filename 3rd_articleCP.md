@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 
-<h1>Sécurité offensive : certifications et plateformes d'entraînement</h1>
+<h1><strong>Sécurité offensive : certifications et plateformes d'entraînement</strong></h1>
 
-</p>
+</div>
 
 
 
@@ -50,10 +50,23 @@ Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Secur
 
 
  <p align="justify">
-
+   Ces certifications ont des prix allant de <strong> 299  à plus de 5000  dollars.<strong>
 
  </p>
 
+
+<p align="justify">
+
+
+ </p>
+ <p align="justify">
+
+
+ </p>
+ <p align="justify">
+
+
+ </p>
 
 ### 3 - Les différents types et mode  de test d’intrusion
 
