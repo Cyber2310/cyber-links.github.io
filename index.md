@@ -26,7 +26,7 @@ Cette page est la page de présentation de notre blog qui vous guidera vers l'en
 - Les conseils professionnels dans le domaine de la cybersécurité
 <br/>
 
-- Les bonnes pratiques sur Internet
+- La gestion de sa vie privée numérique
 
 En fonction de vos intérêts, choisissez ci-dessous les articles qui vous intéressent.
 
