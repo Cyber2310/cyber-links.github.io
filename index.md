@@ -33,10 +33,6 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/4th_articleAD)
 
 
-### Gestion de la vie privée  sur Internet
-
-[A venir]()
-
 
 ### Carrière en cybersécurité
 
@@ -45,6 +41,11 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Les tests d'intrusion (pentest)](https://cyberlinks7.github.io/2nd_articleCP)
 
 - [ Sécurité offensive : certifications et plateformes d'entraînement](https://cyberlinks7.github.io/3rd_articleCP)
+
+
+### Gestion de la vie privée  sur Internet
+
+[A venir]()
 
 
 ### Mais qui sommes-nous ?
