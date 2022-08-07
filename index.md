@@ -5,7 +5,13 @@
 
 </div>
 
-## **Cybersécurité, notre domaine, notre passion**
+<br/>
+<div align="center">
+
+<h2><strong>La Cybersécurité, notre domaine, notre passion.</strong></h2>
+
+</div>
+
 
 <p align="justify">
 Cette page est la page de présentation de notre blog qui vous guidera vers l'ensemble de nos articles. Ces articles, pour le moment, sont orientés autour des domaines suivants:
