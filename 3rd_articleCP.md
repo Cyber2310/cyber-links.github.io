@@ -55,42 +55,68 @@ Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Secur
 
  </p>
 
+<p align="justify">
+
+Dans le tableau ci-dessous, nous avons certaines  certifications en sécurité offensive qu’offrent ces organismes.
+
+</p>
+
+<p align="center"> 
+<img src="img3-1-CP.png" align="center">
+</p>
+
+<br/>
+<br/>
+
+<p align="center"> 
+<img src="img3-2-CP.png" align="center">
+</p>
+
+<p align="justify">
+Pour plus de détails sur ces certifications ou  si vous pouvez consulter les autres certifications, vous pouvez consulter la  roadmap de Paul Jerimy en regardant à l’extrême ( partie en rouge) pour les certifications en offsec. Vous pouvez cliquer directement sur chaque certification pour être redirigé sur la page officielle avec plus de détails . Plus elles sont hautes plus elles sont difficiles :)  .
+
+Vous avez ci-dessous une image d’illustration.
+
+</p>
+
+<p align="center"> 
+<img src="img3-3-CP.png" align="center">
+</p>
 
 
-### 3 - Les différents types et mode  de test d’intrusion
+<br/>
+
+### 3 - Plateformes pour s'entraîner
 
 
 <p align="justify">
 
-Dans une mission de test d’intrusion type black box,  le  pentester ne reçoit aucune information ou n’a aucune connaissance interne de sa cible. Aucune connaissance de l’architecture interne.
+Il est très important de pratiquer, toujours pratiquer  pour  garder la main et maîtriser les techniques d’exploitation. De ce fait, plusieurs plateformes ont été créées en ligne dans le but d'offrir des environnements pour apprendre et pratiquer. 
 
-Dans le pentest white box, les   hackers éthiques ont accès à la beaucoup plus d’informations fournies contrairement au test en black box. Ces informations sont par exemple,  l’architecture réseau, les codes sources ,  la documentation de certaines applications ou systèmes. Les tests d'intrusion en boîte blanche fournissent une évaluation complète des vulnérabilités. Aussi, la relation étroite entre les pentesters en boîte blanche et les développeurs fournit un haut niveau de connaissance du système .
+Nous avons en autres : 
 
-Le pentest boite grise  se situe entre le white box et le black box. Le pentester a partiellement connaissance du système cible. </p>
+</p>
   
-<p align="justify">Nous avons aussi le pentest interne dans lequel le pentester a pour but d’identifier  les problèmes de sécurité et la résistance de l’infrastructure contre toute menace venant du réseau interne. Cette mission a souvent pour but de simuler le comportement d' un stagiaire ou d'un employé malveillant. Mais aussi le  test d’intrusion externe qui a pour but de cibler les actifs de l’entreprise qui sont visibles sur internet (serveur web, services de messagerie, domaines, sous-domaines,...).
-</p>
+-  [Hack The Box ](http://hackthebox.com) 
+
+<p align="justify"> 
+
+ Excellente plateforme, sinon la plus célèbre car elle offre des machines (box) style boot to root permettant d'acquérir de solides compétences en test d’intrusion. Nous avons aussi des challenges,  des environnements appelés Pro Labs qui sont des environnements simulant des réseaux d'entreprise.  Depuis un certain moment elle délivre du contenu d’apprentissage, Hack The Box Academy (  https://academy.hackthebox.com/ ) . Nous avons maintenant sur cette plateforme  la délivrance d’une certification en bug bounty hunting (HTB Certified Bug Bounty Hunter , HTB CBBH, https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter?utm_source=banner&utm_medium=website&utm_campaign=cbbh&utm_content=20220309- ).
+
+ </p>
 
 
-### 4 - Différence entre l’évaluation de la sécurité,  le red team et le pentest
+-  [Try Hack Me ](https://tryhackme.com/) 
+
+<p align="justify"> 
+
+ TryHackMe est différent de toute autre expérience d'apprentissage ;la plate-forme enseigne non seulement les concepts de sécurité, mais permet aux utilisateurs de mettre leurs connaissances théoriques en pratique en compromettant les machines vulnérables du monde réel, ce qui peut être fait via le navigateur.
 
 
-<p align="justify">
-
-
-Il y a très souvent des nuances de la part de plusieurs personnes entre l’évaluation de la sécurité,le pentest et le red teaming.
-L’évaluation de la sécurité consiste à identifier et analyser les  vulnérabilités trouvées puis de fournir un rapport sur les différents risques  auxquelles  l’organisation ciblée pourrait être exposée. Le test d’intrusion quant à lui va encore plus loin en exploitant les vulnérabilités trouvées. Le red team est techniquement plus complexe, prend plus de temps. Il constitue un exercice plus approfondi de test des capacités de réponse de l'organisation et des mesures de sécurité mises en place.
-
-
-</p>
+ </p>
 
 
 
-<p align="justify"> Vous trouverez forcément un métier qui vous plaira :) </p>
-
-<p align="justify"> Certains facteurs  importants sont la discrétion des opérations ( pour ne être repéré par la blue team) , la récupération et l'exfiltration de données sensibles. Il simule une cyberattaque d’un acteur malveillant aux méthodes d'exploitation sophistiquées comme les APT (Advanced Persistent Threat).
-
-</p> Cet excellent lien ci-dessous  présente les normes et standards utilisés  généralement dans le cadre d’une mission de test d’intrusion.
 
 
 ## Source:
