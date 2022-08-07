@@ -51,15 +51,10 @@ Nous avons les acteurs traditionnels du domaine  comme  <strong> Offensive Secur
 
 
  <p align="justify">
-   Ces certifications ont des prix allant de <strong> 299  à plus de 5000  dollars.<strong>
+   Ces certifications ont des prix allant de <strong> 299  à plus de 5000  dollars.</strong>
 
  </p>
 
-
-<p align="justify">
-
-
- </p>
 
 
 ### 3 - Les différents types et mode  de test d’intrusion
