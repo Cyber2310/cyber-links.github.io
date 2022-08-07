@@ -1,5 +1,9 @@
-# Article 4
-## Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)
+
+<div align="center">
+
+<h1><strong>Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)</strong></h1>
+
+</div>
 
 <p align="justify"> Après avoir défini les bases en ce qui concerne l’active directory, nous allons prendre la place d’un acteur sensible dans le domaine de la sécurité: celui du Hacker. Cet article présentera donc les grandes étapes de l’intrusion d’un hacker dans un système en terminant avec un scénario d’exemple.</p>
 <p align="justify"> Déjà pour débuter, nous vous proposons le schéma suivant que nous empruntons à Pentester Academy qui présente le cycle suivi par l’attaquant. Nous tenons à rappeler que pour l’attaquant, dans une architecture AD, c’est d’atteindre les contrôleurs de domaine. Vous vous posez la question de savoir pourquoi ? Nous vous invitons à revoir nos articles sur la description de l’AD.</p>

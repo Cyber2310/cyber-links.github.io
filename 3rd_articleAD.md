@@ -1,5 +1,9 @@
-# Article 3
-## Active Directory : Qu’est ce que les IoE AD et quelques bonnes pratiques au niveau de l’AD
+
+<div align="center">
+
+<h1><strong>Active Directory : Qu’est ce que les IoE AD et quelques bonnes pratiques</strong></h1>
+
+</div>
 
 <p align="justify"> Dans notre précédent article, nous avions parlé de la structure physique de l’AD et des raisons pour lesquelles les entreprises devraient prendre à cœur la sécurité de l’AD. Avant de nous orienter vers les procédés des hackers en phase de piratage, nous faisons un tour rapidement sur les indicateurs d’expositions et proposons quelques bonnes pratiques intéressantes.</p>
  
