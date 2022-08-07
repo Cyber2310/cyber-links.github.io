@@ -51,7 +51,7 @@ Nous avons donc : </p>
 - <p align="justify">La sécurité des CMS ou des sites de e-commerce. </p>
 
 
-##### <p align="justify"> Le pentest des applications mobiles : </p>
+#####  Le pentest des applications mobiles : 
 
 - <p align="justify"> Le rootage/jailbreaking ;</p>
 
@@ -60,7 +60,7 @@ Nous avons donc : </p>
 - <p align="justify"> La recherche de vulnérables des composants ( tokens, OS , librairies)</p>
 
 
-##### <p align="justify"> Le pentest réseau & infrastructures : </p>
+#####  Le pentest réseau & infrastructures : 
 
  - <p align="justify"> Le contournement  des IDS, IPS, Firewall;</p>
  - <p align="justify"> Les attaques DoS/DDoS;</p>
@@ -78,7 +78,7 @@ Nous avons donc : </p>
 - <p align="justify"> Les attaques par  smshing (arnaque via sms );</p>
 - <p align="justify"> Les attaques via les technologies client-side ( adwares par exemple).</p>
 
-##### <p align="justify"> Le pentest physique :</p>
+#####  Le pentest physique :
 
  - <p align="justify"> Le crochetage de serrures ;</p>
  - <p align="justify"> Le détournement de badge RFID ;</p>
