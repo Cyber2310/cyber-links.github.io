@@ -38,7 +38,7 @@ Les missions de pentest sont organisées en fonction des différents domaines de
 Nous avons donc : </p>
 
 
-##### Le pentest des applications web
+#### Le pentest des applications web
 
 <p align="justify" >Web app penetration testing  qui entre autres s’articulera autour des thématiques  : </p>
 
@@ -51,7 +51,7 @@ Nous avons donc : </p>
 - <p align="justify">La sécurité des CMS ou des sites de e-commerce. </p>
 
 
-#####  Le pentest des applications mobiles : 
+####  Le pentest des applications mobiles : 
 
 - <p align="justify"> Le rootage/jailbreaking ;</p>
 
@@ -60,7 +60,7 @@ Nous avons donc : </p>
 - <p align="justify"> La recherche de vulnérables des composants ( tokens, OS , librairies)</p>
 
 
-#####  Le pentest réseau & infrastructures : 
+####  Le pentest réseau & infrastructures : 
 
  - <p align="justify"> Le contournement  des IDS, IPS, Firewall;</p>
  - <p align="justify"> Les attaques DoS/DDoS;</p>
@@ -71,14 +71,14 @@ Nous avons donc : </p>
 - <p align="justify"> L'exfiltration des données.</p>
 
 
-##### <p align="justify"> Le Social engineering :</p>
+#### <p align="justify"> Le Social engineering :</p>
 
 - <p align="justify"> Les attaques par phishing ou hameçonnage ;</p>
 - <p align="justify"> Les attaques par  vishing (arnaque au téléphone) ;</p>
 - <p align="justify"> Les attaques par  smshing (arnaque via sms );</p>
 - <p align="justify"> Les attaques via les technologies client-side ( adwares par exemple).</p>
 
-#####  Le pentest physique :
+####  Le pentest physique :
 
  - <p align="justify"> Le crochetage de serrures ;</p>
  - <p align="justify"> Le détournement de badge RFID ;</p>
