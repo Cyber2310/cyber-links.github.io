@@ -101,7 +101,7 @@ Nous avons en autres :
 
 <p align="justify"> 
 
- Excellente plateforme, sinon la plus célèbre car elle offre des machines (box) style boot to root permettant d'acquérir de solides compétences en test d’intrusion. Nous avons aussi des challenges,  des environnements appelés Pro Labs qui sont des environnements simulant des réseaux d'entreprise.  Depuis un certain moment elle délivre du contenu d’apprentissage, Hack The Box Academy (  https://academy.hackthebox.com/ ) . Nous avons maintenant sur cette plateforme  la délivrance d’une certification en bug bounty hunting (HTB Certified Bug Bounty Hunter , HTB CBBH, https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter?utm_source=banner&utm_medium=website&utm_campaign=cbbh&utm_content=20220309- ).
+ Excellente plateforme, sinon la plus célèbre car elle offre des machines (box) style boot to root permettant d'acquérir de solides compétences en test d’intrusion. Nous avons aussi des challenges,  des environnements appelés Pro Labs qui sont des environnements simulant des réseaux d'entreprise.  Depuis un certain moment elle délivre du contenu d’apprentissage, Hack The Box Academy (  https://academy.hackthebox.com/ ) . Nous avons maintenant sur cette plateforme  la délivrance d’une certification en bug bounty hunting (HTB Certified Bug Bounty Hunter , HTB CBBH ).
 
  </p>
 
@@ -115,12 +115,68 @@ Nous avons en autres :
 
  </p>
 
+ -  [PentesterLab ](https://pentesterlab.com/) 
+
+<p align="justify"> 
+
+Plateforme éducative  sur le pentesting d'applications Web et qui s'adresse à tous les niveaux de compétence tout en  facilitant l'apprentissage.
+
+ </p>
+
+ -  [VulnHub](https://www.vulnhub.com/) 
+
+<p align="justify"> 
+
+Plateforme entièrement gratuite d'entraînement. Les machines (Linux)  style ctf ou réelles sont à disposition de tous.Contrairement aux autres plateformes, les box doivent être téléchargées et imprimées en local dans un hyperviseur (virtual box ou vmware) .
+
+
+ </p>
+
+
+ -  [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/individual/) 
+
+<p align="justify"> 
+
+Plateforme de formation et d'apprentissage nouvellement créée par Offensive Security.  Elle comme recommandée à l’instar de Hack The Box pour se préparer à l’OSCP. 
+Nous avons l’option PG Play qui nous offre un environnement en ligne des machines disponible sur vulnhub (donc généralement des boxes linux)  pour une durée de 3 heures par jour. Quant à l’option payante PG Pratice, elle inclut toutes les fonctionnalités de PG Play ainsi que des machines Windows et Linux supplémentaires développées par des experts OffSec avec un temps illimité.
 
 
 
+ </p>
 
-## Source:
-- [Top 5 Penetration Testing Methodologies and Standards](https://www.vumetric.com/blog/top-penetration-testing-methodologies/) 
+
+
+-  [Root Me](https://www.root-me.org/) 
+
+<p align="justify"> 
+
+Site  de ctf francophone. L’apprentissage se fait sous la forme de défis/challenges, on peut donc y connaître ses compétences et ses points faibles.
+
+ </p>
+
+
+ -  [CTF Time](https://ctftime.org/) 
+
+<p align="justify"> 
+
+Contrairement aux autres plateformes, CTF Time est une plateforme de compétition réelle. Elle est considérée comme la base de données , le moteur de recherche de CTF  passés, en cours et à venir.  Des writeups sont proposés  par certaines personnes ou équipes après chaque compétition.
+
+ </p>
+
+<p align="justify">
+
+ Pour plus d’information,  vous pouvez  regarder le  webinaire organisé Hamza Kondah  formateur en cybersécurité sur Alphorm dont une partie est dédiée à la sécurité offensive.
+
+  </p>
+
+ <br/>
+
+## Sources:
+- [HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter?utm_source=banner&utm_medium=website&utm_campaign=cbbh&utm_content=20220309-) 
+
+- [Webinaire Alphorm](https://www.youtube.com/watch?v=I5Erpe3weDg&ab_channel=Alphorm) 
+
+- [Le site de formation Alphorm](https://www.alphorm.com/) 
 
 <br/>
 <br/>
