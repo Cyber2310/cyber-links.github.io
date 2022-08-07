@@ -28,14 +28,19 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 ### Thématique GRC
 
 - [Les critères de la sécurité de l'information: CID](https://cyberlinks7.github.io/1st_article)
+
 - [Comment réaliser une veille technologique efficace ?](https://cyberlinks7.github.io/2nd_article)
+
 - [Présentation de la famille ISO 27000](https://cyberlinks7.github.io/3rd_article)
 
 ### Pentest Active Directory
 
 - [Active Directory: Les bases à connaitre](https://cyberlinks7.github.io/1st_articleAD)
+
 - [Active Directory : Sa structure physique et pourquoi doit-on le sécuriser ?](https://cyberlinks7.github.io/2nd_articleAD)
+
 - [Active Directory : Qu’est ce que les IoE AD et quelques bonnes pratiques](https://cyberlinks7.github.io/3rd_articleAD)
+
 - [Active Directory : Les différentes étapes de compromission de l’AD du point de vue de l’attaquant (Hacker)](https://cyberlinks7.github.io/4th_articleAD)
 
 

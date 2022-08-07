@@ -174,6 +174,8 @@ Contrairement aux autres plateformes, CTF Time est une plateforme de compétitio
 ## Sources:
 - [HTB Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter?utm_source=banner&utm_medium=website&utm_campaign=cbbh&utm_content=20220309-) 
 
+- [Cybersecurity Certifications Roadmap 2022](https://pauljerimy.com/security-certification-roadmap/) 
+
 - [Webinaire Alphorm](https://www.youtube.com/watch?v=I5Erpe3weDg&ab_channel=Alphorm) 
 
 - [Le site de formation Alphorm](https://www.alphorm.com/) 
