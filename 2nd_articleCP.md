@@ -71,7 +71,7 @@ Nous avons donc : </p>
 - <p align="justify"> L'exfiltration des données.</p>
 
 
-#### <p align="justify"> Le Social engineering :</p>
+####  Le Social engineering :
 
 - <p align="justify"> Les attaques par phishing ou hameçonnage ;</p>
 - <p align="justify"> Les attaques par  vishing (arnaque au téléphone) ;</p>
@@ -122,9 +122,12 @@ L’évaluation de la sécurité consiste à identifier et analyser les  vulnér
 
 <p align="justify"> Certains facteurs  importants sont la discrétion des opérations ( pour ne être repéré par la blue team) , la récupération et l'exfiltration de données sensibles. Il simule une cyberattaque d’un acteur malveillant aux méthodes d'exploitation sophistiquées comme les APT (Advanced Persistent Threat).
 
-Cet excellent  [lien](https://www.vumetric.com/blog/top-penetration-testing-methodologies/)  présente les normes et standards utilisés  généralement dans le cadre d’une mission de test d’intrusion.
+</p> Cet excellent lien ci-dessous  présente les normes et standards utilisés  généralement dans le cadre d’une mission de test d’intrusion.
 
-</p>
+
+## Source:
+- [Top 5 Penetration Testing Methodologies and Standards](https://www.vumetric.com/blog/top-penetration-testing-methodologies/) 
+
 
 <p align="justify"> <strong> A bientôt :) </strong>
 </p>
