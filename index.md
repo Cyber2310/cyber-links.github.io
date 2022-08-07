@@ -18,8 +18,11 @@ Cette page est la page de présentation de notre blog qui vous guidera vers l'en
 </p>
 
 - La GRC pour Gouvernance Risque & Conformité
+<br/>
 - Les pentests AD Active Directory
+<br/>
 - Les conseils professionnels dans le domaine de la cybersécurité
+<br/>
 - Les bonnes pratiques sur Internet
 
 En fonction de vos intérêts, choisissez ci-dessous les articles qui vous intéressent.
