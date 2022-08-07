@@ -20,7 +20,7 @@ Cette page est la page de présentation de notre blog qui vous guidera vers l'en
 - <strong>La GRC pour Gouvernance Risque & Conformité</strong>
 <br/>
 
--<strong> Les pentests Active Directory</strong>
+- <strong> Les pentests Active Directory</strong>
 <br/>
 
 - <strong>Les conseils professionnels dans le domaine de la cybersécurité</strong>
