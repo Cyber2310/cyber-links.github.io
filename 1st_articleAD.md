@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1><strong>Active Directory: Les bases à connaître)</strong></h1>
+<h1><strong>Active Directory: Les bases à connaître</strong></h1>
 
 </div>
 <br/>
