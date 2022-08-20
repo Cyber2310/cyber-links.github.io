@@ -69,7 +69,8 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Gestion de la vie privée  sur Internet
 
-[A venir]()
+- [Comment mieux gérer son identité numérique ? (Article introductif)](https://cyberlinks7.github.io/1st_articleVP)
+<br/>
 
 
 ### Mais qui sommes-nous ?
