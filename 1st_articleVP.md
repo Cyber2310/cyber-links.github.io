@@ -10,7 +10,10 @@
 
 <p align="justify">
 Hello à tous, 
+</p>
 
+
+<p align="justify">
 Dans cette série d’articles, nous parlerons de la gestion de l’identité numérique. 
 Cette série d’articles sera composée d’un article introductif , d’une première partie qui parlera de la gestion de son identité numérique sur les réseaux sociaux (facebook, instagram,...) , puis dans la deuxième partie,il s’agira d’évoquer la gestion de l’identité numérique sur les applications de messagerie instantanée comme whatsapp et telegram. Dans la troisième et dernière partie, nous aborderons quelques conseils pour une meilleure gestion de son image numérique sur internet.
 
