@@ -75,6 +75,9 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Comment mieux gérer son identité numérique sur les réseaux sociaux ?](https://cyberlinks7.github.io/2nd_articleVP)
 <br/>
 
+- [Comment mieux gérer son identité numérique sur les applications de messagerie instantanée ?](https://cyberlinks7.github.io/3rd_articleVP)
+<br/>
+
 ### Mais qui sommes-nous ?
 
 <p align="justify">
@@ -87,7 +90,7 @@ N'hésitez pas à nous contacter si besoin via l'adresse mail suivante en cas de
 
 ## Nous contacter 
 
-- [Nous contacter par mail](mailto:Cyberlinks7@proton.me)
+- [par mail](mailto:Cyberlinks7@proton.me)
 
 
 
