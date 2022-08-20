@@ -180,6 +180,10 @@ En effet, votre photo de profil peut servir à vous identifier, et donc être ut
 
   #### Ajuster les paramètres de confidentialité et de sécurité 
 
+  <br/>
+
+#### Désactiver la fonctionnalité “Personnes à proximité”
+
   <p align="justify">
 
   Nous pouvons permettre à ce que personne ne puisse voir notre numéro de téléphone ainsi que permettre à nos contacts  de nous retrouver.
