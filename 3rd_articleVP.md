@@ -178,11 +178,10 @@ En effet, votre photo de profil peut servir à vous identifier, et donc être ut
 
   </p>
 
-  #### Ajuster les paramètres de confidentialité et de sécurité 
 
   <br/>
 
-#### Désactiver la fonctionnalité “Personnes à proximité”
+#### Ajuster les paramètres de confidentialité et de sécurité
 
   <p align="justify">
 
