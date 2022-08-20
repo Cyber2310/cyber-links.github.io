@@ -72,6 +72,8 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [Comment mieux gérer son identité numérique ? (Article introductif)](https://cyberlinks7.github.io/1st_articleVP)
 <br/>
 
+- [Comment mieux gérer son identité numérique sur les réseaux sociaux ?](https://cyberlinks7.github.io/2nd_articleVP)
+<br/>
 
 ### Mais qui sommes-nous ?
 
