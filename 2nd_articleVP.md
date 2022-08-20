@@ -1,7 +1,8 @@
 
 <div align="center">
+<h1><strong>PARTIE I</strong></h1>
 
-<h1><strong>PARTIE I
+<h1><strong>
   
 Comment mieux gérer son identité numérique sur les réseaux sociaux ? </strong></h1>
 
