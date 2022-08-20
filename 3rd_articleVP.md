@@ -23,7 +23,11 @@ Nous allons présenter quelques mesures de protection de sa vie privée sur l’
 
 <p align="justify">
 
- #### Activer la vérification en 2 étapes
+ <br/>
+
+
+#### Activer la vérification en 2 étapes
+  <br/>
 
 La première chose à faire pour éviter que son compte WhatsApp soit piraté est de renforcer sa sécurité. Pour cela, le plus simple est d’activer la vérification en deux étapes. Cela permet en effet de renforcer la sécurité de votre compte puisque vous devrez renseigner le code PIN que vous avez choisi à intervalle régulier, afin de vérifier que vous êtes bien le propriétaire du compte.
 
@@ -45,7 +49,11 @@ La première chose à faire pour éviter que son compte WhatsApp soit piraté es
 Pour activer l’option, rendez-vous dans les paramètres de WhatsApp, option Compte et sélectionnez « Vérification en deux étapes ». Vous devrez ensuite taper un code à 6 chiffres et renseigner votre adresse mail. De cette manière, si vous oubliez votre code à 6 chiffres, WhatsApp pourra vous envoyer un mail pour le réinitialiser.</p>
 
 
- #### Verrouillage par empreinte digitale ou la reconnaissance faciale
+ <br/>
+
+
+#### Verrouillage par empreinte digitale ou la reconnaissance faciale
+  <br/>
 
 
 
@@ -71,7 +79,9 @@ Sur certains smartphones comme à partir des iphones X , il est également possi
 
 <br/>
 
+
 #### Éviter de répondre aux numéros inconnus
+  <br/>
 
 
 <p align="justify">
@@ -82,9 +92,10 @@ En évitant de communiquer avec cette personne,  nous sommes moins exposés  à 
 
  </p>
 
+ <br/>
 
-
- #### Ajuster les paramètres de confidentialité
+#### Ajuster les paramètres de confidentialité
+  <br/>
 
 <p align="justify">
 
@@ -111,9 +122,12 @@ Nous pouvons définir en sélectionnant  les contacts  qui pourraient nous ajout
 <img src="img3-5-VP.jpg" align="center">
 </p>
 
+
 <br/>
 
 #### Ajuster les paramètres de stockage de données
+  <br/>
+
 
 <p align="justify">
 
@@ -127,9 +141,13 @@ Il est important de bloquer le téléchargement automatique des photos, audio et
 <img src="img3-6-VP.jpg" align="center">
 </p>
 
+
+
 <br/>
 
 #### Vérifier régulièrement les appareils connectés
+  <br/>
+
 
 
 <p align="justify">
@@ -156,7 +174,10 @@ Certaines méthodes et bonnes pratiques  de sécurité s’appliquent également
 
  </p>
 
- #### Filtrer les informations partagées
+ <br/>
+
+#### Filtrer les informations partagées
+  <br/>
 
 
 <p align="justify">
@@ -168,7 +189,10 @@ Ces informations, si elles ne sont a priori pas sensibles, peuvent ne pas avoir 
 
  </p>
 
-  #### Utiliser une photo de profil qui ne permet pas aux inconnus de nous retrouver
+  <br/>
+
+#### Utiliser une photo de profil qui ne permet pas aux inconnus de nous retrouver
+  <br/>
 
   <p align="justify">
 
@@ -182,6 +206,7 @@ En effet, votre photo de profil peut servir à vous identifier, et donc être ut
   <br/>
 
 #### Ajuster les paramètres de confidentialité et de sécurité
+  <br/>
 
   <p align="justify">
 
