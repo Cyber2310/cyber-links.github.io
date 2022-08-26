@@ -21,7 +21,6 @@ Nous allons présenter quelques mesures de protection de sa vie privée sur l’
 
 ### 1 -WhatsApp 
 
-<p align="justify">
 
   <br/>
 
