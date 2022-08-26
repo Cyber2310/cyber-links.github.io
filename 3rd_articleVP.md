@@ -23,11 +23,12 @@ Nous allons présenter quelques mesures de protection de sa vie privée sur l’
 
 <p align="justify">
 
- <br/>
-
-
-#### Activer la vérification en 2 étapes
   <br/>
+
+
+#### Activation en deux étapes
+  <br/>
+
 
 La première chose à faire pour éviter que son compte WhatsApp soit piraté est de renforcer sa sécurité. Pour cela, le plus simple est d’activer la vérification en deux étapes. Cela permet en effet de renforcer la sécurité de votre compte puisque vous devrez renseigner le code PIN que vous avez choisi à intervalle régulier, afin de vérifier que vous êtes bien le propriétaire du compte.
 
