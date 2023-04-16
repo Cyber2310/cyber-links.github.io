@@ -36,7 +36,7 @@ Nous allons  donc passer en revue les conférences dans le monde de  la cybersé
 
 DEF CON est la conférence sur la cybersécurité la plus populaire. Elle a été fondée par Jeff Moss. C’ est une conférence annuelle sur la cybersécurité organisée à Las Vegas, Nevada, États-Unis. La première DEF CON a eu lieu en juin 1993, ce qui en fait l'une des plus anciennes conférences sur la cybersécurité. Le public de cette convention est pour la plupart composé de professionnels de la sécurité des systèmes d'information, de crackers, hackers, journalistes, avocats et employés du gouvernement fédéral intéressés par la programmation, l'architecture, le phreaking, la modification de matériel informatique et tout ce qui peut être hacké. L’événement consiste en de multiples discours à propos de sujets liés aux ordinateurs ou au piratage. L'événement a eu sa 30e édition du 5 au 8 août dernier.  Des CTF sont organisés durant certaines sessions.
 
-
+</p>
 
 ##### BLACKHAT
 
