@@ -139,11 +139,12 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 <br/>
 
 
-
 ### 2 - Compétitions
 
+<br/>
 
 #####  GLOBAL  CYBERLYMPICS
+
 <br/>
 
 <p align="center"> 
@@ -185,7 +186,12 @@ Concours annuel continental est conçu pour combler le déficit de compétences 
 
 Les équipes affrontent des joueurs de tous les 54 pays africains éligibles dans un tour éliminatoire en ligne de 24 heures. La compétition commence par un tour de pré-qualification où seules les meilleures équipes sont sélectionnées pour participer à la bataille finale de 24 heures. Les équipes sont composées de minimum 2 et maximum 4 joueurs.
 
+</p>
 
+<br/>
+
+
+<br/>
 
 
 #####  HACKERLAB
