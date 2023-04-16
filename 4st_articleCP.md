@@ -139,12 +139,9 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 <br/>
 
 
-### 2 - Compétitions
-
-### 1 - Conférences
+### 2 -Compétitions
 
 
-##### DEFCON
 
 <br/>
 
