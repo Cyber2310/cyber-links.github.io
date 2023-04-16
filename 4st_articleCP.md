@@ -154,7 +154,7 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 <p align="justify">
 Les Cyberlympics sont une compétition destinée à un large éventail de professionnels de la sécurité informatique et bien qu’il inclut certains composants du CTF, les Cyberlympics vont au-delà du défi de base du CTF.  Il couvre  presque tous les domaines de la sécurité informatique tels que les tests d'intrusion, la criminalistique, les logiciels malveillants, l'analyse des logs , l'exploitation système, la sécurité physique . Les Cyberlympics ne se concentrent pas uniquement sur l'attaque ou la défense, mais plutôt sur une approche globale permettant aux équipes de rivaliser avec toutes les forces de cybersécurité qu'elles apportent à la compétition.
 
-<p/>
+</p>
 
 
 ####  DGHacks
