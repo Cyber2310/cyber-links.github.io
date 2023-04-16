@@ -24,7 +24,7 @@ Nous allons  donc passer en revue les conférences dans le monde de  la cybersé
 ### 1 - Conférences
 
 
-##### DEFCON
+#### DEFCON
 <br/>
 
 <p align="center"> 
@@ -38,7 +38,7 @@ DEF CON est la conférence sur la cybersécurité la plus populaire. Elle a ét�
 
 </p>
 
-##### BLACKHAT
+#### BLACKHAT
 
 
 <p align="center"> 
@@ -63,7 +63,7 @@ L’évènement a lieu  plusieurs fois dans l’année  aux Etats-Unis, en Europ
 
 
 
-##### RSA
+#### RSA
 
 <br/>
 <p align="center"> 
@@ -77,9 +77,9 @@ RSA Conference est une série de conférences portant sur la sécurité de l'inf
 </p>
 
 
-<br/>
 
-##### FIC ( Forum International de la Cybersécurité)
+
+#### FIC ( Forum International de la Cybersécurité)
 
 <br/>
 <p align="center"> 
@@ -93,9 +93,9 @@ La Gendarmerie Nationale  a lancé en 2007, avec le concours financier de la Ré
 </p>
 
 
-<br/>
 
-##### leHACK
+
+#### leHACK
 
 <br/>
 <p align="center"> 
@@ -107,9 +107,9 @@ La Gendarmerie Nationale  a lancé en 2007, avec le concours financier de la Ré
 Le Hack, anciennement Nuit du Hack est une des plus anciennes conférences de hacking francophone. Inspirée de la célèbre convention américaine DEFCON, elle a été initiée en 2003 par l’équipe HZV (hackerzvoice).  De nombreux sujets techniques sont  abordés notamment les attaques sur environnements Active Directory, OSINT, hardware hacking ou encore radio. Aussi, des challenges sous format de wargames sont organisés.
 
 
-<br/>
 
-##### CAF (Cyber Africa Forum)
+
+#### CAF (Cyber Africa Forum)
 
 <br/>
 <p align="center"> 
@@ -121,9 +121,9 @@ Le Hack, anciennement Nuit du Hack est une des plus anciennes conférences de ha
 Le Cyber Africa Forum est  événement organisé  depuis Mai 2020 à Abidjan en Côte d’Ivoire  par Franck Kié où de nombreux experts de la cybersécurité présents ont, au cours des échanges, fait de fortes recommandations pour se prémunir des menaces de cyberattaques de plus récurrentes et importantes sur le continent africain.  Ce sont plusieurs dizaines d’experts panélistes et des centaines de professionnels de cet important secteur qui ont participé aux activités de réflexion et de propositions de solutions. Le thème principal de cette édition du CAF 2022, <strong>‘’Souveraineté numérique et protection des données comme leviers de croissance économique pour le continent africain’’</strong>, fortement apprécié,  a été décliné en 23 sous thèmes que les experts ont discutés à travers 23 panels.
 </p>
 
-<br/>
 
-##### Africa Cyber Defense Forum
+
+#### Africa Cyber Defense Forum
 
 <br/>
 <p align="center"> 
@@ -136,16 +136,16 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 
 </p>
 
-<br/>
+
 
 
 ### 2 -Compétitions
 
 
 
-<br/>
 
-#####  GLOBAL  CYBERLYMPICS
+
+####  GLOBAL  CYBERLYMPICS
 
 <br/>
 
@@ -156,10 +156,10 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 <p align="justify">
 Les Cyberlympics sont une compétition destinée à un large éventail de professionnels de la sécurité informatique et bien qu’il inclut certains composants du CTF, les Cyberlympics vont au-delà du défi de base du CTF.  Il couvre  presque tous les domaines de la sécurité informatique tels que les tests d'intrusion, la criminalistique, les logiciels malveillants, l'analyse des logs , l'exploitation système, la sécurité physique . Les Cyberlympics ne se concentrent pas uniquement sur l'attaque ou la défense, mais plutôt sur une approche globale permettant aux équipes de rivaliser avec toutes les forces de cybersécurité qu'elles apportent à la compétition.
 
-<br/>
+<p/>
 
 
-#####  DGHacks
+####  DGHacks
 <br/>
 
 <p align="center"> 
@@ -170,10 +170,10 @@ Les Cyberlympics sont une compétition destinée à un large éventail de profes
 Le DG’hAck est un ensemble de challenges en ligne prenant la forme d’un « Capture The Flag » ou « CTF », ou comment mettre en évidence les vulnérabilités d’un système numérique.Un événement pour les passionnés. Débutants, étudiants, professionnels en cybersécurité, experts DGA et cybercombattants des armées, tous les participants sont les bienvenus. Pour cette édition, 23 challenges sont proposés. Tous les scénarios du DG’hAck ont été préparés et conçus en collaboration avec les cyberexperts du centre DGA Maitrise de l’information. Deux catégories sont récompensées : la catégorie étudiante et la catégorie professionnelle. Pour la catégorie étudiante, un entretien à la DGA pour un stage* sera proposé. Et pour la catégorie professionnelle : un entretien pour un poste* en cyber à la DGA.
 </p>
 
-<br/>
 
 
-#####  AFRICA CYBERLYMPICS
+
+####  AFRICA CYBERLYMPICS
 <br/>
 
 <p align="center"> 
@@ -190,13 +190,9 @@ Les équipes affrontent des joueurs de tous les 54 pays africains éligibles dan
 
 </p>
 
-<br/>
 
 
-<br/>
-
-
-#####  HACKERLAB
+####  HACKERLAB
 
 <br/>
 
