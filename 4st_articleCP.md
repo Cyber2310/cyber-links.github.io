@@ -61,7 +61,7 @@ Des formations sont  proposées  aux participants durant l’évènement. Ces fo
 L’évènement a lieu  plusieurs fois dans l’année  aux Etats-Unis, en Europe , en Asie et au Moyen-Orient  Afrique. Vous pouvez consulter le site officiel  https://www.blackhat.com/  et la chaine youtube  pour  avoir plus d’informations ou regarder certaines conférences.
 </p>
 
-<br/>
+
 
 ##### RSA
 
