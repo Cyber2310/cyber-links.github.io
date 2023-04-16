@@ -120,12 +120,99 @@ Le Hack, anciennement Nuit du Hack est une des plus anciennes conférences de ha
 
 Le Cyber Africa Forum est  événement organisé  depuis Mai 2020 à Abidjan en Côte d’Ivoire  par Franck Kié où de nombreux experts de la cybersécurité présents ont, au cours des échanges, fait de fortes recommandations pour se prémunir des menaces de cyberattaques de plus récurrentes et importantes sur le continent africain.  Ce sont plusieurs dizaines d’experts panélistes et des centaines de professionnels de cet important secteur qui ont participé aux activités de réflexion et de propositions de solutions. Le thème principal de cette édition du CAF 2022, <strong>‘’Souveraineté numérique et protection des données comme leviers de croissance économique pour le continent africain’’</strong>, fortement apprécié,  a été décliné en 23 sous thèmes que les experts ont discutés à travers 23 panels.
 </p>
-## Source:
-- [OWASP Top 10 Web ](https://owasp.org/Top10/) 
-- [OWASP Top 10 API ](https://owasp.org/www-project-api-security/) 
-- [OWASP Web Security Testing Guide ](https://owasp.org/www-project-web-security-testing-guide/latest/)
 
 <br/>
+
+##### Africa Cyber Defense Forum
+
+<br/>
+<p align="center"> 
+<img src="img4-8-CP.png" align="center">
+</p>
+
+<p align="justify">
+
+C’est un événement annuel sur la cybersécurité ciblant différentes villes d'Afrique pour rassembler les plus grands experts mondiaux en sécurité, des héros de première ligne, des chefs de gouvernement et des cadres de diverses industries pour relever les défis du paysage des menaces d'aujourd'hui.  Cet évènement se fait en ligne  mais aussi en présentiel  au  Kenya. Lors de cet évènement un compétition de type CTF dénommée  Africa Cyberlympics.
+
+</p>
+
+<br/>
+
+
+
+### 2 - Compétitions
+
+
+#####  GLOBAL  CYBERLYMPICS
+<br/>
+
+<p align="center"> 
+<img src="img4-9-CP.png" align="center">
+</p>
+
+<p align="justify">
+Les Cyberlympics sont une compétition destinée à un large éventail de professionnels de la sécurité informatique et bien qu’il inclut certains composants du CTF, les Cyberlympics vont au-delà du défi de base du CTF.  Il couvre  presque tous les domaines de la sécurité informatique tels que les tests d'intrusion, la criminalistique, les logiciels malveillants, l'analyse des logs , l'exploitation système, la sécurité physique . Les Cyberlympics ne se concentrent pas uniquement sur l'attaque ou la défense, mais plutôt sur une approche globale permettant aux équipes de rivaliser avec toutes les forces de cybersécurité qu'elles apportent à la compétition.
+
+<br/>
+
+
+#####  DGHacks
+<br/>
+
+<p align="center"> 
+<img src="img4-10-CP.png" align="center">
+</p>
+
+<p align="justify">
+Le DG’hAck est un ensemble de challenges en ligne prenant la forme d’un « Capture The Flag » ou « CTF », ou comment mettre en évidence les vulnérabilités d’un système numérique.Un événement pour les passionnés. Débutants, étudiants, professionnels en cybersécurité, experts DGA et cybercombattants des armées, tous les participants sont les bienvenus. Pour cette édition, 23 challenges sont proposés. Tous les scénarios du DG’hAck ont été préparés et conçus en collaboration avec les cyberexperts du centre DGA Maitrise de l’information. Deux catégories sont récompensées : la catégorie étudiante et la catégorie professionnelle. Pour la catégorie étudiante, un entretien à la DGA pour un stage* sera proposé. Et pour la catégorie professionnelle : un entretien pour un poste* en cyber à la DGA.
+</p>
+
+<br/>
+
+
+#####  AFRICA CYBERLYMPICS
+<br/>
+
+<p align="center"> 
+<img src="img4-11-CP.png" align="center">
+</p>
+
+<p align="justify">
+Concours annuel continental est conçu pour combler le déficit de compétences en cybersécurité et la fracture numérique qui persistent en Afrique, tout en aidant le continent à développer son statut de pôle technologique émergent. Il s'agit d'un concours de cybersécurité et de cyberdéfense en ligne. Il oppose des équipes de tout le continent africain dans des scénarios pratiques intenses de 24 heures et des laboratoires virtuels pratiques qui couvrent une série de défis dans des domaines : Analyse forensique, reversing, la cryptographie, l’exploitation web.
+</p>
+
+<p align="justify">
+
+Les équipes affrontent des joueurs de tous les 54 pays africains éligibles dans un tour éliminatoire en ligne de 24 heures. La compétition commence par un tour de pré-qualification où seules les meilleures équipes sont sélectionnées pour participer à la bataille finale de 24 heures. Les équipes sont composées de minimum 2 et maximum 4 joueurs.
+
+</p>
+
+<br/>
+
+
+<br/>
+
+
+#####  HACKERLAB
+<br/>
+
+<p align="center"> 
+<img src="img4-12-CP.png" align="center">
+</p>
+
+<p align="justify">
+Concours annuel continental est conçu pour combler le déficit de compétences en cybersécurité et la fracture numérique qui persistent en Afrique, tout en aidant le continent à développer son statut de pôle technologique émergent. Il s'agit d'un concours de cybersécurité et de cyberdéfense en ligne. Il oppose des équipes de tout le continent africain dans des scénarios pratiques intenses de 24 heures et des laboratoires virtuels pratiques qui couvrent une série de défis dans des domaines : Analyse forensique, reversing, la cryptographie, l’exploitation web.
+</p>
+
+<p align="justify">
+
+Il a pour objectif  de détecter et de former à terme, des hackers éthiques, un maillon essentiel dans la lutte contre la cybercriminalité.
+
+ La participation à certaines conférences est payante avec des prix allant de 50 à près de 5000 dollars. Par contre, la participation à plusieurs compétitions est gratuite. N’hésitez  donc pas à participer à ces différents évènements et compétitions votre culture et compétence.
+
+
+</p>
+
 <br/>
 
 
