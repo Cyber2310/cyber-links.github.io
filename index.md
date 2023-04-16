@@ -71,7 +71,7 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 - [ Sécurité offensive : certifications et plateformes d'entraînement](https://cyberlinks7.github.io/3rd_articleCP)
 <br/>
 
-- [ Compétitions et conférences de cybersécurité](https://cyberlinks7.github.io/4rd_articleCP)
+- [ Compétitions et conférences de cybersécurité](https://cyberlinks7.github.io/4st_articleCP)
 
 
 ### Gestion de la vie privée  sur Internet
