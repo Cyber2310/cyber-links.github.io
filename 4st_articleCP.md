@@ -106,7 +106,7 @@ La Gendarmerie Nationale  a lancé en 2007, avec le concours financier de la Ré
 
 Le Hack, anciennement Nuit du Hack est une des plus anciennes conférences de hacking francophone. Inspirée de la célèbre convention américaine DEFCON, elle a été initiée en 2003 par l’équipe HZV (hackerzvoice).  De nombreux sujets techniques sont  abordés notamment les attaques sur environnements Active Directory, OSINT, hardware hacking ou encore radio. Aussi, des challenges sous format de wargames sont organisés.
 
-
+</p>
 
 
 #### CAF (Cyber Africa Forum)
@@ -140,8 +140,6 @@ C’est un événement annuel sur la cybersécurité ciblant différentes villes
 
 
 ### 2 -Compétitions
-
-
 
 
 
