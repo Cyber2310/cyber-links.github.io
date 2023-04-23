@@ -106,6 +106,8 @@ C’est parfait ! Nous allons aborder un élément clé de la phase de planifica
 <br/>
 
 <strong>Sources</strong><br/>
+<br/>
+<br/>
 
 <a href="https://www.developpez.net/forums/blogs/863457-autran/b9196/risque-pandemie-devra-etre-mieux-evalue-france/"> Evaluation du risque</a><br/>
 Formation PECB ISO 27001 LI<br/>
