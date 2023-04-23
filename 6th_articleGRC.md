@@ -103,6 +103,8 @@ C’est parfait ! Nous allons aborder un élément clé de la phase de planifica
 
 <strong>A très bientôt.</strong>
 
+<br/>
+<br/>
 
 ### Sources
 
