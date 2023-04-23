@@ -111,7 +111,7 @@ C’est parfait ! Nous allons aborder un élément clé de la phase de planifica
 <br/>
 <br/>
 - Norme ISO 27000
-<br/>
-- [Evaluation du risque](https://www.developpez.net/forums/blogs/863457-autran/b9196/risque-pandemie-devra-etre-mieux-evalue-france/)
-<br/>
+
+-[Evaluation du risque](https://www.developpez.net/forums/blogs/863457-autran/b9196/risque-pandemie-devra-etre-mieux-evalue-france/)
+
 - Formation PECB ISO 27001 LI
