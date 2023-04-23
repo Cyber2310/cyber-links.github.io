@@ -50,9 +50,10 @@ En effet, n’ayez pas peur, l’ISO 27001 n’a pas uniquement pour cible les e
 
 Maintenant que nous avons évoqué la norme de façon générale, abordons maintenant les grandes étapes de la mise en oeuvre du SMSI.
 
-Par expérience et étant certifié ISO 27001 Auditor, pour la mise en oeuvre du SMSI, nous utilisons la méthodologie PDCA. 
-  
-### Qu’est ce que le PDCA ?
+Par expérience et étant certifié ISO 27001 Auditor, pour la mise en oeuvre du SMSI, nous utilisons la méthodologie PDCA. <strong>Qu’est ce que le PDCA ?</strong>
+
+<br/>
+<br/>
   
 La norme ISO 27001 a adopté la méthodologie du PDCA pour « Plan-Do-Check-Act » ou « Planifier-Déployer-Contrôler-Agir » en français. Encore appelée la roue de Deming, cette méthode est appliquée à la structure de tous les processus d’un SMSI avec en entrée de notre système de management, les exigences et attentes en sécurité de l’information et en sortie les résultats de sécurité de l’information qui satisfont à ces exigences. Quelles sont les différentes grandes parties de chacune des étapes du PDCA.
 
