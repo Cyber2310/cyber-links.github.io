@@ -104,11 +104,10 @@ C’est parfait ! Nous allons aborder un élément clé de la phase de planifica
 <strong>A très bientôt.</strong>
 
 
-
-
-
 ### Sources
 
 - Norme ISO 27000
+
 - [Evaluation du risque](https://www.developpez.net/forums/blogs/863457-autran/b9196/risque-pandemie-devra-etre-mieux-evalue-france/)
+
 - Formation PECB ISO 27001 LI
