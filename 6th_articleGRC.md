@@ -101,15 +101,10 @@ C’est parfait ! Nous allons aborder un élément clé de la phase de planifica
 
 <p align="justify">Nous voilà à la fin de la phase de planification. Nous aborderons dans le prochain article, le déploiement conformément à la roue de Dehming. D’ici là, n’hésitez pas à nous faire des remarques et suggestions pour l’amélioration de nos articles et de nos connaissances. La sécurité, c’est bien mais c’est encore mieux lorsqu’il y a partage de connaissance.</p>
 
-<strong>A très bientôt.</strong>
+<p align="justify"></strong>A très bientôt.</strong></p>
 
-<br/>
-<br/>
+### Sources
 
-<strong>Sources</strong>
-
-<br/>
-<br/>
 
 - [Evaluation du risque](https://www.developpez.net/forums/blogs/863457-autran/b9196/risque-pandemie-devra-etre-mieux-evalue-france/)<br/>
 - Formation PECB ISO 27001 LI<br/>
