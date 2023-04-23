@@ -90,7 +90,7 @@ Dans cette phase, un professionnel du domaine devra:
 <p align="justify"> Dans cette phase, il faudra traiter les non-conformités identifiées et débuter le processus d’amélioration continue. Les rapports de traitement de ces conformités seront établis et conservés pour une meilleure gestion du SMSI.
 
 L’ensemble des phases ci-dessus évoquées feront l’objet d’articles spécifiques où l’on pourra revenir en détail sur chacune d’elles. Nous évoquerons certainement dans les prochains articles le déroulé de l’audit de certification. Laissez nous des messages par mail si ces thématiques vous intéressent et n’hésitez pas à nous faire des propositions ;-).
-  
+  <br/>
   <br/>
 
 <strong>Let’s LEARN Together 🙂</strong>
