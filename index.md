@@ -40,6 +40,16 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 <br/>
 
 - [Présentation de la famille ISO 27000](https://cyberlinks7.github.io/3rd_article)
+<br/>
+
+- [Utilité de la norme ISO27001 et grandes étapes de déploiement](https://cyberlinks7.github.io/4th_articleGRC)
+<br/>
+
+- [Focus: les indispensables de la planification du SMSI - Partie 1](https://cyberlinks7.github.io/5th_articleGRC)
+<br/>
+
+- [Focus: les indispensables de la planification du SMSI - Partie 2](https://cyberlinks7.github.io/6th_articleGRC)
+
 
 ### Pentest Active Directory
 
