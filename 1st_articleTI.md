@@ -15,6 +15,7 @@
 
 
 <p align="justify">
+<br/>
 Une menace persistante avancée (APT) est un acteur malveillant qui possède des compétences et des ressources extraordinaires, lui permettant d'infiltrer et d'exfiltrer le réseau d'une organisation. Les APT utilisent une variété de techniques, de tactiques et d'outils, tels que des attaques d'ingénierie sociale très ciblées, des ransomwares , des exploits de vulnérabilité et des zero-days pour atteindre leurs objectifs illicites.
 
 </p>
@@ -26,7 +27,6 @@ Une menace persistante avancée (APT) est un acteur malveillant qui possède des
 Le côté obscur de la cybersécurité regorge de plusieurs profils blackhat. Nous avons : 
 
 #### Les Hackers d’Etat (State/Nation Sponsored Hackers) 
-<br/>
 
 
 <p align="justify">
@@ -46,8 +46,6 @@ Leur principale  motivation d’ordre politique. Ces spécialistes de la cybers�
 </p>
 
 
-
-<br/>
 
 ### 2 - Les raisons et enjeux  de leur passage au côté obscur 
 
