@@ -100,7 +100,7 @@ En fonction de vos intérêts, choisissez ci-dessous les articles qui vous inté
 
 ### Cyber Threat Intelligence
 
-- [Présentation de certains groupes de hackers connus)](https://cyberlinks7.github.io/1st_articleTI)
+- [Présentation de certains groupes de hackers connus](https://cyberlinks7.github.io/1st_articleTI)
 <br/>
 
 
